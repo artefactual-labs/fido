@@ -504,7 +504,7 @@
     <pronom_id>45</pronom_id>
     <extension>csv</extension>
     <details>
-      <dc:description>A comma-separated values (CSV) file file stores tabular data (numbers and text) in plain text. Plain text means that the file is interpreted a sequence of characters, so that it is human-readable with a standard text editor. Each line of the file is a data record.</dc:description>
+      <dc:description>A comma-separated values (CSV) file stores tabular data (numbers and text) in plain text. Plain text means that the file is interpreted a sequence of characters, so that it is human-readable with a standard text editor. Each line of the file is a data record.</dc:description>
       <dcterms:available />
       <dc:creator />
       <dcterms:publisher />
@@ -513,8 +513,8 @@
         <status>unknown</status>
         <dc:creator>Digital Preservation Department / The National Archives</dc:creator>
         <dcterms:created>02 Aug 2005</dcterms:created>
-        <dcterms:modified>03 Aug 2015</dcterms:modified>
-        <dc:description />
+        <dcterms:modified>21 Jul 2025</dcterms:modified>
+        <dc:description>v.121: Removed extra word in description.</dc:description>
       </record_metadata>
     </details>
   </format>
@@ -5152,7 +5152,7 @@ GEM raster images may be color, gray scale, or black and white and are always re
       </pattern>
     </signature>
     <details>
-      <dc:description>Picture Publisher Bitmap files are the native raster graphics format of Picture Publisher, a Micrografx graphics application. The software was originally purchased from Astral in 1991 and later purchased by Corel in 2001. It was superseded by Corel Photo-Paint.</dc:description>
+      <dc:description>uwckup	Picture Publisher Bitmap files are the native raster graphics format of Picture Publisher, a Micrografx graphics application. The software was originally purchased from Astral in 1991 and later purchased by Corel in 2001. It was superseded by Corel Photo-Paint.</dc:description>
       <dcterms:available />
       <dc:creator />
       <dcterms:publisher />
@@ -8956,7 +8956,7 @@ Full specifications can be found at http://www.w3.org/TR/xmlschema-0/</dc:descri
   <format>
     <puid>x-fmt/302</puid>
     <mime>application/vnd.framemaker</mime>
-    <name>Visualization Toolkit</name>
+    <name>Adobe Framemaker Document</name>
     <version>8.0</version>
     <alias />
     <pronom_id>456</pronom_id>
@@ -8980,8 +8980,8 @@ Full specifications can be found at http://www.w3.org/TR/xmlschema-0/</dc:descri
         <status>unknown</status>
         <dc:creator>Digital Preservation Department / The National Archives</dc:creator>
         <dcterms:created>23 Sep 2003</dcterms:created>
-        <dcterms:modified>19 Jul 2013</dcterms:modified>
-        <dc:description />
+        <dcterms:modified>21 Jul 2025</dcterms:modified>
+        <dc:description>v.121: Error with format name corrected. Preservica.</dc:description>
       </record_metadata>
     </details>
   </format>
@@ -12369,6 +12369,7 @@ The file signature is a FourCC code: TPIC. Also a variety of extensions were per
     <pronom_id>643</pronom_id>
     <extension>html</extension>
     <extension>htm</extension>
+    <extension>xhtml</extension>
     <has_priority_over>fmt/101</has_priority_over>
     <has_priority_over>fmt/96</has_priority_over>
     <signature>
@@ -12406,8 +12407,8 @@ The file signature is a FourCC code: TPIC. Also a variety of extensions were per
         <status>unknown</status>
         <dc:creator>Digital Preservation Department / The National Archives</dc:creator>
         <dcterms:created>11 Mar 2005</dcterms:created>
-        <dcterms:modified>14 Sep 2018</dcterms:modified>
-        <dc:description />
+        <dcterms:modified>09 Jun 2026</dcterms:modified>
+        <dc:description>v.123- New extension added of .xhtml. Submitted by the Digital Preservation Coalition.</dc:description>
       </record_metadata>
     </details>
   </format>
@@ -12420,6 +12421,7 @@ The file signature is a FourCC code: TPIC. Also a variety of extensions were per
     <pronom_id>644</pronom_id>
     <extension>htm</extension>
     <extension>html</extension>
+    <extension>xhtml</extension>
     <has_priority_over>fmt/101</has_priority_over>
     <has_priority_over>fmt/96</has_priority_over>
     <signature>
@@ -12458,7 +12460,7 @@ The file signature is a FourCC code: TPIC. Also a variety of extensions were per
         <dc:creator>Digital Preservation Department / The National Archives</dc:creator>
         <dcterms:created>11 Mar 2005</dcterms:created>
         <dcterms:modified>14 Sep 2018</dcterms:modified>
-        <dc:description />
+        <dc:description>v.123- New extension added of .xhtml. Submitted by the Digital Preservation Coalition.</dc:description>
       </record_metadata>
     </details>
   </format>
@@ -13198,6 +13200,7 @@ Apple discontinued the support of Windows Media Player in the year 2016. Windows
     <extension>mpeg</extension>
     <extension>mpg</extension>
     <apple_uti>public.mpeg</apple_uti>
+    <has_priority_over>fmt/134</has_priority_over>
     <signature>
       <name>MPEG-1 Program Stream</name>
       <note>Pack Header Start Code + System Header Start Code</note>
@@ -13217,8 +13220,8 @@ Apple discontinued the support of Windows Media Player in the year 2016. Windows
         <status>unknown</status>
         <dc:creator>Digital Preservation Department / The National Archives</dc:creator>
         <dcterms:created>11 Mar 2005</dcterms:created>
-        <dcterms:modified>07 Jul 2014</dcterms:modified>
-        <dc:description />
+        <dcterms:modified>09 Jun 2026</dcterms:modified>
+        <dc:description>v.123- Priority added over fmt/134 MPEG 1/2 Audio Layer 3. Submitted by Digital Preservation Department, The National Archives (UK)</dc:description>
       </record_metadata>
     </details>
   </format>
@@ -13361,7 +13364,7 @@ Version 2.0 is the same file format as version 97</dc:description>
         <dc:identifier>http://www.w3.org/Graphics/PNG/nurbcup2si.png</dc:identifier>
         <dcterms:license />
         <dc:rights />
-        <checksum type="md5">de63d66c9f2d8cdcee1f46a07c1aae14</checksum>
+        <checksum type="md5">61be978d7f202287bcf40efab3084de2</checksum>
       </example_file>
       <example_file>
         <dc:title>666.png</dc:title>
@@ -13369,7 +13372,7 @@ Version 2.0 is the same file format as version 97</dc:description>
         <dc:identifier>http://www.w3.org/Graphics/PNG/666.png</dc:identifier>
         <dcterms:license />
         <dc:rights />
-        <checksum type="md5">40e7e3a69be4582b6241f8542e3453c8</checksum>
+        <checksum type="md5">1f9c4f6223660b1c2eea3509172afbc8</checksum>
       </example_file>
       <record_metadata>
         <status>unknown</status>
@@ -14059,7 +14062,7 @@ EOF: EOI marker (FF|D9) with a large offset due to the amount of photoshop metad
       </pattern>
     </signature>
     <details>
-      <dc:description>Exchangeable image file format (Exif) is a standard that specifies the formats for images, sound, and ancillary tags used by digital cameras (including smartphones), scanners and other systems handling image and sound files recorded by digital cameras.</dc:description>
+      <dc:description>Exchangeable image file format (Exif) is a standard that specifies the formats for images, sound, and ancillary t4 dataused by digital cameras (including smartphones), scanners and other systems handling image and sound files recorded by digital cameras.</dc:description>
       <dcterms:available />
       <dc:creator />
       <dcterms:publisher />
@@ -14332,7 +14335,7 @@ EOF: EOI marker (FF|D9) with a large offset due to the amount of photoshop metad
     <alias />
     <pronom_id>683</pronom_id>
     <details>
-      <dc:description>PUID deprecated. Please see fmt/60: Microsoft Excel 5.0/95 Workbook (xls).</dc:description>
+      <dc:description>PUID deprecated. Please see fmt/59: Microsoft Excel 5.0/95 Workbook (xls).</dc:description>
       <dcterms:available />
       <dc:creator />
       <dcterms:publisher />
@@ -14361,8 +14364,8 @@ EOF: EOI marker (FF|D9) with a large offset due to the amount of photoshop metad
   <format>
     <puid>fmt/61</puid>
     <mime>application/vnd.ms-excel</mime>
-    <name>Microsoft Excel 97 Workbook (xls)</name>
-    <version>8</version>
+    <name>Microsoft Excel 97-2003 Workbook (xls)</name>
+    <version>8 &amp; 8X</version>
     <alias>Microsoft Excel Workbook (97-2000)</alias>
     <pronom_id>684</pronom_id>
     <extension>xls</extension>
@@ -14370,17 +14373,8 @@ EOF: EOI marker (FF|D9) with a large offset due to the amount of photoshop metad
     <apple_uti>com.microsoft.excel.xls</apple_uti>
     <has_priority_over>fmt/59</has_priority_over>
     <has_priority_over>fmt/111</has_priority_over>
-    <signature>
-      <name>BIFF 8 &amp; 8X Workbook (generic)</name>
-      <note>09 - BOF / 08 - Version indicator / {2} - unspecified / 0006 - version / 0500 - substream</note>
-      <pattern>
-        <position>BOF</position>
-        <pronom_pattern>0908{2}00060500</pronom_pattern>
-        <regex>(?s)\A.{512}\x09\x08.{2}\x00\x06\x05\x00</regex>
-      </pattern>
-    </signature>
     <details>
-      <dc:description>The Binary Interchange File Format (BIFF) is a spreadsheet file format developed by Microsoft. BIFF 8 is a native file format of Microsoft Excel 97. The format is proprietary and Microsoft does not make details of its structure public. The information here is derived primarily from OpenOffice.org's reverse-engineered documentation of the format and should not therefore be regarded as definitive. BIFF 8 is based on Microsoft&#8217;s generic OLE2 Compound Document Format. An Excel workbook is stored as a &#8216;Book&#8217; stream within a Compound Document Format file. The Book stream comprises a Workbook Globals Substream, containing a Beginning of File (BOF) record, the Workbook global records, and terminated by an End of File (EOF) record. This is followed by one or more Worksheet substreams, containing a Beginning of File (BOF) record, the worksheet records, and terminated by an End of File (EOF) record. The format remained unchanged with the release of Excel 2000.</dc:description>
+      <dc:description>The Binary Interchange File Format (BIFF) is a spreadsheet file format developed by Microsoft. This description covers both BIFF 8 which is a native file format of Microsoft Excel 97 and BIFF 8X, a native file format of Microsoft Excel XP. The format is proprietary and Microsoft does not make details of its structure public. The information here is derived primarily from OpenOffice.org's reverse-engineered documentation of the format and should not therefore be regarded as definitive. BIFF 8 and BIFF 8X are both based on Microsoft&#8217;s generic OLE2 Compound Document Format. An Excel workbook is stored as a &#8216;Book&#8217; stream within a Compound Document Format file. The Book stream comprises a Workbook Globals Substream, containing a Beginning of File (BOF) record, the Workbook global records, and terminated by an End of File (EOF) record. This is followed by one or more Worksheet substreams, containing a Beginning of File (BOF) record, the worksheet records, and terminated by an End of File (EOF) record.</dc:description>
       <dcterms:available />
       <dc:creator />
       <dcterms:publisher />
@@ -14401,33 +14395,20 @@ EOF: EOI marker (FF|D9) with a large offset due to the amount of photoshop metad
         <status>unknown</status>
         <dc:creator>Digital Preservation Department / The National Archives</dc:creator>
         <dcterms:created>11 Mar 2005</dcterms:created>
-        <dcterms:modified>18 Dec 2012</dcterms:modified>
-        <dc:description>This format can be identified via a container signature in DROID version 6 or later. The PRONOM database cannot currently represent container signatures.</dc:description>
+        <dcterms:modified>25 Nov 2025</dcterms:modified>
+        <dc:description>This format can be identified via a container signature in DROID version 6 or later. The PRONOM database cannot currently represent container signatures; v.122- Date range in name updated from 97 to 97-2003, version number updated to include 8X, links added, binary signature removed and description updated accordingly. Submitted by Preservica.</dc:description>
       </record_metadata>
     </details>
   </format>
   <format>
     <puid>fmt/62</puid>
-    <mime>application/vnd.ms-excel</mime>
     <name>Microsoft Excel 2000-2003 Workbook (xls)</name>
     <version>8X</version>
     <alias>Microsoft Excel Workbook (XP-2003), Microsoft Excel Workbook (2002-2003)</alias>
     <pronom_id>685</pronom_id>
-    <extension>xlw</extension>
-    <extension>xls</extension>
-    <apple_uti>com.microsoft.excel.xls</apple_uti>
     <has_priority_over>fmt/111</has_priority_over>
-    <signature>
-      <name>BIFF 8 &amp; 8X Workbook (generic)</name>
-      <note>09 - BOF / 08 - Version indicator / {2} - unspecified / 0006 - version / 0500 - substream</note>
-      <pattern>
-        <position>BOF</position>
-        <pronom_pattern>0908{2}00060500</pronom_pattern>
-        <regex>(?s)\A.{512}\x09\x08.{2}\x00\x06\x05\x00</regex>
-      </pattern>
-    </signature>
     <details>
-      <dc:description>The Binary Interchange File Format (BIFF) is a spreadsheet file format developed by Microsoft. BIFF 8X is a native file format of Microsoft Excel XP. The format is proprietary and Microsoft does not make details of its structure public. The information here is derived primarily from OpenOffice.org's reverse-engineered documentation of the format and should not therefore be regarded as definitive. BIFF 8X is based on Microsoft&#8217;s generic OLE2 Compound Document Format. An Excel workbook is stored as a &#8216;Book&#8217; stream within a Compound Document Format file. The Book stream comprises a Workbook Globals Substream, containing a Beginning of File (BOF) record, the Workbook global records, and terminated by an End of File (EOF) record. This is followed by one or more Worksheet substreams, containing a Beginning of File (BOF) record, the worksheet records, and terminated by an End of File (EOF) record. The format remained unchanged with the release of Excel 2003.</dc:description>
+      <dc:description>This PUID has been deprecated in favour of fmt/61.</dc:description>
       <dcterms:available />
       <dc:creator />
       <dcterms:publisher />
@@ -14448,8 +14429,8 @@ EOF: EOI marker (FF|D9) with a large offset due to the amount of photoshop metad
         <status>unknown</status>
         <dc:creator>Digital Preservation Department / The National Archives</dc:creator>
         <dcterms:created>11 Mar 2005</dcterms:created>
-        <dcterms:modified>02 Aug 2005</dcterms:modified>
-        <dc:description />
+        <dcterms:modified>24 Nov 2025</dcterms:modified>
+        <dc:description>v.122- This PUID is deprecated in favour of fmt/61. Submitted by Preservica.</dc:description>
       </record_metadata>
     </details>
   </format>
@@ -14681,7 +14662,7 @@ EOF: EOI marker (FF|D9) with a large offset due to the amount of photoshop metad
     <has_priority_over>fmt/111</has_priority_over>
     <has_priority_over>fmt/609</has_priority_over>
     <signature>
-      <name>Microsoft Word for Windows 97 - 2002</name>
+      <name>Microsoft Word for Windows 97 - 2003</name>
       <note>Compound document header + WordDocument user stream + version number</note>
       <pattern>
         <position>BOF</position>
@@ -14722,7 +14703,7 @@ EOF: EOI marker (FF|D9) with a large offset due to the amount of photoshop metad
         <dc:creator>Digital Preservation Department / The National Archives</dc:creator>
         <dcterms:created>11 Mar 2005</dcterms:created>
         <dcterms:modified>19 Apr 2012</dcterms:modified>
-        <dc:description>This format can be identified via a container signature in DROID version 6 or later. The PRONOM database cannot currently represent container signatures.</dc:description>
+        <dc:description>This format can be identified via a container signature in DROID version 6 or later. The PRONOM database cannot currently represent container signatures; v.122- Version in name of signature changed from 97-2002 to 97-2003. Submitted by Archives New Zealand.</dc:description>
       </record_metadata>
     </details>
   </format>
@@ -18172,7 +18153,8 @@ PDF/A supports two levels of compliance PDF/A1-a (Accessible) and PDF/A1-b (Basi
         <dc:creator>Digital Preservation Department / The National Archives</dc:creator>
         <dcterms:created>22 Aug 2006</dcterms:created>
         <dcterms:modified>19 Apr 2012</dcterms:modified>
-        <dc:description>This format can be identified via a container signature in DROID version 6 or later. The PRONOM database cannot currently represent container signatures.</dc:description>
+        <dc:description>This format can be identified via a container signature in DROID version 6 or later. The PRONOM database cannot currently represent container signatures.
+v.122: corrected priority (submitted by Preservica).</dc:description>
       </record_metadata>
     </details>
   </format>
@@ -19111,7 +19093,7 @@ This version was published in February 2005 and corrected the flaws in the first
     <extension>hqx</extension>
     <signature>
       <name>BinHex Binary Text</name>
-      <note>BOF; Offset:0-4084; Magic Bytes: '(This file must be converted with BinHex' and in 6-9 bytes 0x3A; EOF; Offset: 64; Magic Bytes: 0x3A</note>
+      <note>BOF; Offset:0-4084; Magic Bytes: '(This file must be converted with BinHex' and in 6-9 bytes 0x3A; EOF; Offset: 0-64; Magic Bytes: 0x3A</note>
       <pattern>
         <position>BOF</position>
         <pronom_pattern>28546869732066696C65206D75737420626520636F6E76657274656420776974682042696E486578{6-9}3A</pronom_pattern>
@@ -19120,7 +19102,7 @@ This version was published in February 2005 and corrected the flaws in the first
       <pattern>
         <position>EOF</position>
         <pronom_pattern>3A</pronom_pattern>
-        <regex>(?s):.{64}\Z</regex>
+        <regex>(?s):.{0,64}\Z</regex>
       </pattern>
     </signature>
     <details>
@@ -19133,8 +19115,8 @@ This version was published in February 2005 and corrected the flaws in the first
         <status>unknown</status>
         <dc:creator>Digital Preservation Department / The National Archives</dc:creator>
         <dcterms:created>02 Dec 2010</dcterms:created>
-        <dcterms:modified>15 Apr 2024</dcterms:modified>
-        <dc:description>04/2024 (v.118)- Signature modified to increase max-offset by 4k, beginning and ending colon added for conformance to specification. Description, notefield and MIME type updated. Submitted by Brigham Young University.</dc:description>
+        <dcterms:modified>25 Nov 2025</dcterms:modified>
+        <dc:description>04/2024 (v.118)- Signature modified to increase max-offset by 4k, beginning and ending colon added for conformance to specification. Description, notefield and MIME type updated. Submitted by Brigham Young University. v.122- EOF sequence offset modified to include bytes 0-64. Submitted by Archives nationales de France and Brigham Young University.</dc:description>
       </record_metadata>
     </details>
   </format>
@@ -19613,6 +19595,7 @@ This version was published in February 2005 and corrected the flaws in the first
   </format>
   <format>
     <puid>x-fmt/430</puid>
+    <mime>application/vnd.ms-outlook</mime>
     <name>Microsoft Outlook Email Message</name>
     <version>97-2003</version>
     <alias />
@@ -19649,8 +19632,9 @@ This version was published in February 2005 and corrected the flaws in the first
         <status>unknown</status>
         <dc:creator>Digital Preservation Department / The National Archives</dc:creator>
         <dcterms:created>08 Feb 2008</dcterms:created>
-        <dcterms:modified>19 Apr 2012</dcterms:modified>
-        <dc:description>This format can be identified via a container signature in DROID version 6 or later. The PRONOM database cannot currently represent container signatures.</dc:description>
+        <dcterms:modified>06 Jan 2026</dcterms:modified>
+        <dc:description>This format can be identified via a container signature in DROID version 6 or later. The PRONOM database cannot currently represent container signatures.
+V.122: Added MIMEtype.</dc:description>
       </record_metadata>
     </details>
   </format>
@@ -21535,6 +21519,7 @@ The majority of INX files included with an installation are named "setup.inx". T
     <extension>m4a</extension>
     <extension>f4v</extension>
     <extension>f4a</extension>
+    <extension>m4b</extension>
     <has_priority_over>x-fmt/384</has_priority_over>
     <has_priority_over>fmt/1616</has_priority_over>
     <signature>
@@ -21557,7 +21542,7 @@ The majority of INX files included with an installation are named "setup.inx". T
         <dc:creator>Digital Preservation Department / The National Archives</dc:creator>
         <dcterms:created>27 Oct 2009</dcterms:created>
         <dcterms:modified>17 Apr 2024</dcterms:modified>
-        <dc:description>08/2023 (v.113) - Priority added over fmt/1616 (BibTeX Database File). Internally researched; 04/2024 (v.118): Description added as part of PRONOM Research Week 2023. Submitted by The Church of Jesus Christ of Latter-day Saints</dc:description>
+        <dc:description>08/2023 (v.113) - Priority added over fmt/1616 (BibTeX Database File). Internally researched; 04/2024 (v.118): Description added as part of PRONOM Research Week 2023. Submitted by The Church of Jesus Christ of Latter-day Saints; v.123- New extension added of m4b. Submitted by Archives New Zealand.</dc:description>
       </record_metadata>
     </details>
   </format>
@@ -23593,6 +23578,7 @@ http://flac.sourceforge.net/documentation_format_overview.html</dc:description>
     <version />
     <alias />
     <pronom_id>1020</pronom_id>
+    <extension>tex</extension>
     <has_priority_over>fmt/281</has_priority_over>
     <signature>
       <name>LaTeX (Master document)</name>
@@ -23614,7 +23600,7 @@ http://flac.sourceforge.net/documentation_format_overview.html</dc:description>
         <dc:creator>Digital Preservation Department / The National Archives</dc:creator>
         <dcterms:created>01 Nov 2010</dcterms:created>
         <dcterms:modified>01 Nov 2010</dcterms:modified>
-        <dc:description>Following up external submission. Signature submitted by representative of KeepIt project at Southampton University.</dc:description>
+        <dc:description>Following up external submission. Signature submitted by representative of KeepIt project at Southampton University. v.122- External signature of .tex added to entry. Submitted by Technishe Informationsbibliothek.</dc:description>
       </record_metadata>
     </details>
   </format>
@@ -23624,6 +23610,7 @@ http://flac.sourceforge.net/documentation_format_overview.html</dc:description>
     <version />
     <alias />
     <pronom_id>1021</pronom_id>
+    <extension>tex</extension>
     <has_priority_over>fmt/101</has_priority_over>
     <signature>
       <name>LaTeX (Subdocument)</name>
@@ -23645,7 +23632,7 @@ http://flac.sourceforge.net/documentation_format_overview.html</dc:description>
         <dc:creator>Digital Preservation Department / The National Archives</dc:creator>
         <dcterms:created>01 Nov 2010</dcterms:created>
         <dcterms:modified>01 Nov 2010</dcterms:modified>
-        <dc:description>Following up external submission. Signature submitted by representative of KeepIt project at Southampton University.</dc:description>
+        <dc:description>Following up external submission. Signature submitted by representative of KeepIt project at Southampton University. v.122- External signature of .tex added to entry. Submitted by Technishe Informationsbibliothek.</dc:description>
       </record_metadata>
     </details>
   </format>
@@ -30665,7 +30652,7 @@ Variant 1: &lt;!(DOCTYPE|doctype){0-4}(HTML|html)&gt;</note>
     <extension>msv</extension>
     <extension>dvf</extension>
     <signature>
-      <name>Sony Digital Voice File/Sony Memory Stick Voice File</name>
+      <name>Digital Voice File/Sony Memory Stick Voice File</name>
       <note>MS_VOICE...P....SONY CORPORATION</note>
       <pattern>
         <position>BOF</position>
@@ -35265,6 +35252,8 @@ http://support.microsoft.com/kb/316992</dc:description>
     <extension>m4a</extension>
     <extension>mp4</extension>
     <has_priority_over>fmt/199</has_priority_over>
+    <has_priority_over>fmt/2033</has_priority_over>
+    <has_priority_over>fmt/2094</has_priority_over>
     <signature>
       <name>Apple Lossless Audio Codec</name>
       <note>BOF: (offset 4): ftypM4A 
@@ -35290,10 +35279,8 @@ VAR: alac{0-72}alac</note>
         <status>unknown</status>
         <dc:creator>Digital Preservation Department / The National Archives</dc:creator>
         <dcterms:created>12 Nov 2013</dcterms:created>
-        <dcterms:modified>12 Nov 2013</dcterms:modified>
-        <dc:description>http://www.applelossless.com/
-http://alac.macosforge.org/trac/browser/trunk/ALACMagicCookieDescription.txt
-http://alac.macosforge.org/trac/browser/trunk/codec/ALACAudioTypes.h?rev=2#</dc:description>
+        <dcterms:modified>09 Jun 2026</dcterms:modified>
+        <dc:description>v.123- Priority added over fmt/2094 M4A Audio. Submitted by Preservica.</dc:description>
       </record_metadata>
     </details>
   </format>
@@ -39207,6 +39194,15 @@ The creating software version number can be found at hex position 0x28-29, and t
     <alias />
     <pronom_id>1519</pronom_id>
     <extension>mbox</extension>
+    <signature>
+      <name>MBOX</name>
+      <note>Based on https://www.rfc-editor.org/rfc/rfc4155, BOF: ASCII string 'From ' , followed by a {1-255} wildcard in place of a sender identifier or system message, followed by a ctime-format timestamp comprising an English-language three-character weekday abbreviation (Mon|Tue|Wed|Thu|Fri|Sat|Sun), three-character month abbreviation (Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec), day-of-month digit, and time in HH:MM:SS format.</note>
+      <pattern>
+        <position>BOF</position>
+        <pronom_pattern>46726F6D20{1-255}(4D6F6E|547565|576564|546875|467269|536174|53756E)20{0-2}(4A616E|466562|4D6172|417072|4D6179|4A756E|4A756C|417567|536570|4F6374|4E6F76|446563)20{0-2}[30:39]20[30:32][30:39]3A[30:35][30:39]3A[30:35][30:39]</pronom_pattern>
+        <regex>(?s)\AFrom .{1,255}(?:Mon|Tue|Wed|Thu|Fri|Sat|Sun) .{0,2}(?:Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec) .{0,2}[0-9] [0-2][0-9]:[0-5][0-9]:[0-5][0-9]</regex>
+      </pattern>
+    </signature>
     <details>
       <dc:description>MBOX is a commonly used format for storing email messages. MBOX files may be produced by a variety of email clients, however these are often not mutually compatible. 
 
@@ -39223,8 +39219,8 @@ Due to the variety of MBOX structures, it is not currently possible to produce a
         <status>unknown</status>
         <dc:creator>Digital Preservation Department / The National Archives</dc:creator>
         <dcterms:created>12 Feb 2015</dcterms:created>
-        <dcterms:modified>12 Feb 2015</dcterms:modified>
-        <dc:description />
+        <dcterms:modified>09 Jun 2026</dcterms:modified>
+        <dc:description>v.123- New signature created and priority added over fmt/950 MIME Email 1.0. Submitted by Preservica.</dc:description>
       </record_metadata>
     </details>
   </format>
@@ -44557,6 +44553,25 @@ The .acsm file is essentially a 'key' to allow the download of purchased content
     <alias />
     <pronom_id>1679</pronom_id>
     <extension>rdf</extension>
+    <has_priority_over>fmt/101</has_priority_over>
+    <signature>
+      <name>RDF/XML with XML declaration</name>
+      <note>XML Declaration, then mandatory &lt;rdf:RDF element containing &#8216;xmlns:rdf=&#8217;( "| ')&#8217;http://www.w3.org/1999/02/22-rdf-syntax-ns#=&#8217;( "| ') namespace</note>
+      <pattern>
+        <position>BOF</position>
+        <pronom_pattern>3C3F786D6C2076657273696F6E3D(22|27)312E30(22|27){1-1024}3C7264663A524446{1-2048}786D6C6E733A7264663D(22|27)687474703A2F2F7777772E77332E6F72672F313939392F30322F32322D7264662D73796E7461782D6E7323(22|27)</pronom_pattern>
+        <regex>(?s)\A\x3c\?xml version=(?:"|')1\.0(?:"|').{1,1024}\x3crdf:RDF.{1,2048}xmlns:rdf=(?:"|')http://www\.w3\.org/1999/02/22-rdf-syntax-ns#(?:"|')</regex>
+      </pattern>
+    </signature>
+    <signature>
+      <name>RDF/XML without XML declaration</name>
+      <note>Mandatory &lt;rdf:RDF element containing &#8216;xmlns:rdf=&#8217;( "| ')&#8217;http://www.w3.org/1999/02/22-rdf-syntax-ns#=&#8217;( "| ') namespace</note>
+      <pattern>
+        <position>BOF</position>
+        <pronom_pattern>3C7264663A524446{1-2048}786D6C6E733A7264663D(22|27)786D6C6E733A7264663D(22|27)687474703A2F2F7777772E77332E6F72672F313939392F30322F32322D7264662D73796E7461782D6E7323(22|27)</pronom_pattern>
+        <regex>(?s)\A\x3crdf:RDF.{1,2048}xmlns:rdf=(?:"|')xmlns:rdf=(?:"|')http://www\.w3\.org/1999/02/22-rdf-syntax-ns#(?:"|')</regex>
+      </pattern>
+    </signature>
     <details>
       <dc:description>RDF/XML is a syntax, defined by the W3C, to express (i.e. serialize) an RDF (Resource Description Framework)  graph as an XML document.</dc:description>
       <dcterms:available />
@@ -44567,8 +44582,8 @@ The .acsm file is essentially a 'key' to allow the download of purchased content
         <status>unknown</status>
         <dc:creator>Digital Preservation Department / The National Archives</dc:creator>
         <dcterms:created>20 Jan 2016</dcterms:created>
-        <dcterms:modified>20 Jan 2016</dcterms:modified>
-        <dc:description />
+        <dcterms:modified>09 Jun 2026</dcterms:modified>
+        <dc:description>v.123: two new internal signatures added, one with and XML declaration and another without. Submitted by Preservica.</dc:description>
       </record_metadata>
     </details>
   </format>
@@ -46202,14 +46217,15 @@ Specification: http://site.xara.com/support/docs/webformat/spec/XARFormatDocumen
     <alias />
     <pronom_id>1735</pronom_id>
     <extension>mif</extension>
+    <extension>miff</extension>
     <signature>
       <name>Magick Image File Format</name>
       <note>BOF max offset 256: id=ImageMagick[new line]{0-256}:[new line]
 Specification: http://www.imagemagick.org/script/miff.php</note>
       <pattern>
         <position>BOF</position>
-        <pronom_pattern>69643D496D6167654D616769636B{0-256}3A0A</pronom_pattern>
-        <regex>(?s)\A.{0,256}id=ImageMagick.{0,256}:\n</regex>
+        <pronom_pattern>69643D496D6167654D616769636B{0-1024}3A</pronom_pattern>
+        <regex>(?s)\A.{0,256}id=ImageMagick.{0,1024}:</regex>
       </pattern>
     </signature>
     <details>
@@ -46359,7 +46375,7 @@ Specification: http://www.svf.org/spec.html</note>
   </format>
   <format>
     <puid>fmt/935</puid>
-    <mime>image/vnd.mozilla.apng</mime>
+    <mime>image/apng</mime>
     <name>Animated Portable Network Graphics</name>
     <version />
     <alias>APNG</alias>
@@ -46381,6 +46397,11 @@ Specification: https://wiki.mozilla.org/APNG_Specification</note>
         <pronom_pattern>0000000049454E44AE426082</pronom_pattern>
         <regex>(?s)\x00\x00\x00\x00IEND\xaeB\x60\x82\Z</regex>
       </pattern>
+      <pattern>
+        <position>VAR</position>
+        <pronom_pattern>6663544C00000000</pronom_pattern>
+        <regex>(?s)fcTL\x00\x00\x00\x00</regex>
+      </pattern>
     </signature>
     <details>
       <dc:description>APNG is an extension of the PNG format, adding support for animated images. It is intended to be a replacement for simple animated images that have traditionally used the GIF format, while adding support for 24-bit images and 8-bit transparency. APNG is intended as a simpler alternative to MNG.
@@ -46394,8 +46415,8 @@ APNG is backwards-compatible with PNG; any PNG decoder should be able to ignore 
         <status>unknown</status>
         <dc:creator>Digital Preservation Department / The National Archives</dc:creator>
         <dcterms:created>11 Jul 2016</dcterms:created>
-        <dcterms:modified>11 Jul 2016</dcterms:modified>
-        <dc:description />
+        <dcterms:modified>24 Nov 2025</dcterms:modified>
+        <dc:description>v. 122- Updated MIME type according to IANA database, added LOC and wikidata identifiers. Signature updated to include a variable byte sequence to prevent clashing. Submitted by the Library of Congress and Preservica.</dc:description>
       </record_metadata>
     </details>
   </format>
@@ -49926,13 +49947,13 @@ https://books.google.co.uk/books?id=YfkUKcyI7KIC&amp;pg=PT439</note>
   </format>
   <format>
     <puid>fmt/1046</puid>
-    <name>Draco File Format</name>
-    <version />
+    <name>Draco</name>
+    <version>1</version>
     <alias />
     <pronom_id>1851</pronom_id>
     <extension>drc</extension>
     <signature>
-      <name>Draco</name>
+      <name>Draco v.1</name>
       <note>BOF: 'DRACO', major version 1
 Header defined in code: https://github.com/google/draco/blob/master/compression/config/compression_shared.h</note>
       <pattern>
@@ -49951,8 +49972,8 @@ Header defined in code: https://github.com/google/draco/blob/master/compression/
         <status>unknown</status>
         <dc:creator>Digital Preservation Department / The National Archives</dc:creator>
         <dcterms:created>10 May 2017</dcterms:created>
-        <dcterms:modified>10 May 2017</dcterms:modified>
-        <dc:description />
+        <dcterms:modified>21 Jul 2025</dcterms:modified>
+        <dc:description>v.121: added a version number of 1. Submitted by Preservica.</dc:description>
       </record_metadata>
     </details>
   </format>
@@ -58442,6 +58463,20 @@ The message may contain one or more attachments in the file format specified in 
         <regex>(?s)\}\r\n\Z</regex>
       </pattern>
     </signature>
+    <signature>
+      <name>Tweet JSON (reversed order)</name>
+      <note>Absolute from beginning of file: The signature assumes a starting "{" character, a terminating "}" and the JSON keys "retweeted" and "id_str". This signature allows for any line ending combination to follow the terminating "}"</note>
+      <pattern>
+        <position>BOF</position>
+        <pronom_pattern>7B*22726574776565746564223A*2269645F737472223A</pronom_pattern>
+        <regex>(?s)\A\{.*"retweeted":.*"id_str":</regex>
+      </pattern>
+      <pattern>
+        <position>EOF</position>
+        <pronom_pattern>7D</pronom_pattern>
+        <regex>(?s)\}.{0,2}\Z</regex>
+      </pattern>
+    </signature>
     <details>
       <dc:description>Tweet JSON represents the serialization of the JSON response payload of the Twitter API when requesting a single Tweet by id. Each Tweet has an author, a message, a unique ID, a timestamp of when it was posted, and sometimes geo metadata shared by the user.
 Each Tweet also has "entity" objects, which are arrays of common Tweet contents such as hashtags, mentions, media, and links. If there are links, the JSON payload can also provide metadata such as the fully unwound URL and the webpage&#8217;s title and description.
@@ -58455,7 +58490,7 @@ In addition to the text content itself, a Tweet can have over 150 attributes ass
         <dc:creator>Preservica / Preservica</dc:creator>
         <dcterms:created>18 Jan 2020</dcterms:created>
         <dcterms:modified>18 Jan 2020</dcterms:modified>
-        <dc:description />
+        <dc:description>v.121: Added the Tweet JSON (reversed order) internal signature.</dc:description>
       </record_metadata>
     </details>
   </format>
@@ -68991,7 +69026,7 @@ EOF; Offset: 109 - 120; Magic bytes; '&#255;&#254;&#255;.A.r.i.a.l'</note>
   <format>
     <puid>fmt/1649</puid>
     <name>AGS 4 Data Format</name>
-    <version>4.0, 4.1</version>
+    <version>4.0- 4.1</version>
     <alias />
     <pronom_id>2476</pronom_id>
     <extension>ags</extension>
@@ -69014,8 +69049,9 @@ EOF; Offset: 109 - 120; Magic bytes; '&#255;&#254;&#255;.A.r.i.a.l'</note>
         <status>unknown</status>
         <dc:creator>AGS / Association of Geotechnical and Geoenvironmental Specialists</dc:creator>
         <dcterms:created>14 Mar 2022</dcterms:created>
-        <dcterms:modified>11 Nov 2024</dcterms:modified>
-        <dc:description>v.120- Removed excess variable marker from signature, updated description and updated version number. Submitted by Ross Spencer as part of PRONOM Research Week</dc:description>
+        <dcterms:modified>21 Jul 2025</dcterms:modified>
+        <dc:description>v.120- Removed excess variable marker from signature, updated description and updated version number. Submitted by Ross Spencer as part of PRONOM Research Week
+v.121: removed comma from file format version field. Submitted by Preservica.</dc:description>
       </record_metadata>
     </details>
   </format>
@@ -69050,11 +69086,11 @@ EOF; Offset: 109 - 120; Magic bytes; '&#255;&#254;&#255;.A.r.i.a.l'</note>
     <extension>fit</extension>
     <signature>
       <name>Garmin Flexible and Interoperable Data Transfer file</name>
-      <note>BOF Absolute from beginning of file, magic bytes: FIT</note>
+      <note>BOF, offset 8, magic bytes: .FIT</note>
       <pattern>
         <position>BOF</position>
-        <pronom_pattern>464954</pronom_pattern>
-        <regex>(?s)\A.{9}FIT</regex>
+        <pronom_pattern>2E464954</pronom_pattern>
+        <regex>(?s)\A.{8}\.FIT</regex>
       </pattern>
     </signature>
     <details>
@@ -69067,8 +69103,9 @@ EOF; Offset: 109 - 120; Magic bytes; '&#255;&#254;&#255;.A.r.i.a.l'</note>
         <status>unknown</status>
         <dc:creator>Digital Preservation Department / The National Archives</dc:creator>
         <dcterms:created>15 Mar 2022</dcterms:created>
-        <dcterms:modified>15 Nov 2023</dcterms:modified>
-        <dc:description>11/2023 (v.115)- Max-offset modified for BOF signature to allow for more exact signature identification. Internally researched.</dc:description>
+        <dcterms:modified>21 Jul 2025</dcterms:modified>
+        <dc:description>v.115: Max-offset modified for BOF signature to allow for more exact signature identification. Internally researched.
+v.121: Amended offset from 9 to 8 and changed signature from 464954 to 2E464954.</dc:description>
       </record_metadata>
     </details>
   </format>
@@ -73793,8 +73830,8 @@ EOF, offset 0-6, magic bytes: &lt;/card&gt;{0-6}&lt;/wml&gt;{0-2}</note>
       <note>BOF offset 0-3, XML 1.0 declaration, then mandatory elements, &#8216;document&#8217;, &#8216;interlinear-text&#8217;, &#8216;paragraphs&#8217;&#8211; see https://github.com/sillsdev/FieldWorks/blob/develop/DistFiles/Language%20Explorer/Export%20Templates/Interlinear/FlexInterlinear.xsd. There are additional non-mandatory elements and attributes that can appear, which may mean that relative offsets between elements may need to be tweaked further.</note>
       <pattern>
         <position>BOF</position>
-        <pronom_pattern>3C3F786D6C2076657273696F6E3D22312E302220656E636F64696E673D225554462D38223F3E{0-3}3C646F63756D656E74{1-256}3C696E7465726C696E6561722D74657874{1-1024}3C70617261677261706873</pronom_pattern>
-        <regex>(?s)\A.{0,3}\x3c\?xml version="1\.0" encoding="UTF-8"\?\x3e.{0,3}\x3cdocument.{1,256}\x3cinterlinear-text.{1,1024}\x3cparagraphs</regex>
+        <pronom_pattern>3C3F786D6C2076657273696F6E3D22312E302220656E636F64696E673D22(55|75)(54|74)(46|66)2D38223F3E{0-3}3C646F63756D656E74{1-256}3C696E7465726C696E6561722D74657874{1-1024}3C70617261677261706873</pronom_pattern>
+        <regex>(?s)\A.{0,3}\x3c\?xml version="1\.0" encoding="(?:U|u)(?:T|t)(?:F|f)-8"\?\x3e.{0,3}\x3cdocument.{1,256}\x3cinterlinear-text.{1,1024}\x3cparagraphs</regex>
       </pattern>
     </signature>
     <details>
@@ -73807,8 +73844,9 @@ EOF, offset 0-6, magic bytes: &lt;/card&gt;{0-6}&lt;/wml&gt;{0-2}</note>
         <status>unknown</status>
         <dc:creator>Preservica / Preservica</dc:creator>
         <dcterms:created>23 Nov 2022</dcterms:created>
-        <dcterms:modified>16 Apr 2024</dcterms:modified>
-        <dc:description>04/2024 (v.118)- Offset from BOF changed from 0 to 0-3 to provide flexibility for the XML 1.0 declaration. Submitted by Preservica based on samples provided by The Endanagered Languages Archive.</dc:description>
+        <dcterms:modified>21 Jul 2025</dcterms:modified>
+        <dc:description>v.118: Offset from BOF changed from 0 to 0-3 to provide flexibility for the XML 1.0 declaration. Submitted by Preservica based on samples provided by The Endanagered Languages Archive.
+V.121: Signature amended to allow for lower case 'utf'.</dc:description>
       </record_metadata>
     </details>
   </format>
@@ -77467,6 +77505,20 @@ The Digital Voice File (DVF) is an audio file format that was used for recording
         <regex>(?s)\x3cpdfaid:part\x3e4\x3c/pdfaid:part\x3e</regex>
       </pattern>
     </signature>
+    <signature>
+      <name>PDF/A-4 attribute variant</name>
+      <note>Signature Desciption: BOF &#8216;%PDF-2.&#8217;[0-9], then variable `pdfaid:part="4"&#8217;</note>
+      <pattern>
+        <position>BOF</position>
+        <pronom_pattern>255044462D322E[30:39]</pronom_pattern>
+        <regex>(?s)\A%PDF-2\.[0-9]</regex>
+      </pattern>
+      <pattern>
+        <position>VAR</position>
+        <pronom_pattern>7064666169643A706172743D223422</pronom_pattern>
+        <regex>(?s)pdfaid:part="4"</regex>
+      </pattern>
+    </signature>
     <details>
       <dc:description>PDF/A-4 is the file format described by ISO 19005-4:2020 &#8220;Document management &#8212; Electronic document file format for long-term preservation &#8212; Part 4: Use of ISO 32000-2 (PDF/A-4)&#8221;. It is the first of the PDF-Archival format family to be based on PDF 2.0. It has additional subsets &#8211; PDF/A-4e, aimed at engineering use-cases that allows for rich media such as interactive 3D elements to be embedded, and PDF/A-4f, that allows files of any format to be embedded.</dc:description>
       <dcterms:available />
@@ -77477,8 +77529,8 @@ The Digital Voice File (DVF) is an audio file format that was used for recording
         <status>unknown</status>
         <dc:creator>Preservica / Preservica</dc:creator>
         <dcterms:created>25 Aug 2023</dcterms:created>
-        <dcterms:modified>25 Aug 2023</dcterms:modified>
-        <dc:description />
+        <dcterms:modified>22 Sep 2025</dcterms:modified>
+        <dc:description>v.121: new internal signature (submitted by Preservica).</dc:description>
       </record_metadata>
     </details>
   </format>
@@ -77520,6 +77572,34 @@ The Digital Voice File (DVF) is an audio file format that was used for recording
         <regex>(?s)\x3cpdfaid:conformance\x3eE\x3c/pdfaid:conformance\x3e.*\x3cpdfaid:part\x3e4\x3c/pdfaid:part\x3e</regex>
       </pattern>
     </signature>
+    <signature>
+      <name>PDF/A-4e attribute variant 1</name>
+      <note>BOF &#8216;%PDF-2.&#8217;[0-9], then variable `pdfaid:part=""4""&#8217; then `pdfaid:conformance=""E""&#8217;</note>
+      <pattern>
+        <position>BOF</position>
+        <pronom_pattern>255044462D322E[30:39]</pronom_pattern>
+        <regex>(?s)\A%PDF-2\.[0-9]</regex>
+      </pattern>
+      <pattern>
+        <position>VAR</position>
+        <pronom_pattern>7064666169643A706172743D223422207064666169643A636F6E666F726D616E63653D224522</pronom_pattern>
+        <regex>(?s)pdfaid:part="4" pdfaid:conformance="E"</regex>
+      </pattern>
+    </signature>
+    <signature>
+      <name>PDF/A-4e attribute variant 2</name>
+      <note>BOF &#8216;%PDF-2.&#8217;[0-9], then variable `pdfaid:conformance=""E""&#8217; then `pdfaid:part=""4""&#8217;"</note>
+      <pattern>
+        <position>BOF</position>
+        <pronom_pattern>255044462D322E[30:39]</pronom_pattern>
+        <regex>(?s)\A%PDF-2\.[0-9]</regex>
+      </pattern>
+      <pattern>
+        <position>VAR</position>
+        <pronom_pattern>7064666169643A636F6E666F726D616E63653D224522207064666169643A706172743D223422</pronom_pattern>
+        <regex>(?s)pdfaid:conformance="E" pdfaid:part="4"</regex>
+      </pattern>
+    </signature>
     <details>
       <dc:description>PDF/A-4 is the file format described by ISO 19005-4:2020 &#8220;Document management &#8212; Electronic document file format for long-term preservation &#8212; Part 4: Use of ISO 32000-2 (PDF/A-4)&#8221;. It is the first of the PDF-Archival format family to be based on PDF 2.0. PDF/A-4e is aimed at engineering use-cases that allows for rich media such as interactive 3D elements to be embedded.</dc:description>
       <dcterms:available />
@@ -77531,7 +77611,8 @@ The Digital Voice File (DVF) is an audio file format that was used for recording
         <dc:creator>Preservica / Preservica</dc:creator>
         <dcterms:created>25 Aug 2023</dcterms:created>
         <dcterms:modified>15 Apr 2024</dcterms:modified>
-        <dc:description>04/2024 (v.118)- Spelling mistake corrected in MIME Type. Submitted by Archives New Zealand and Brigham Young University.</dc:description>
+        <dc:description>04/2024 (v.118)- Spelling mistake corrected in MIME Type. Submitted by Archives New Zealand and Brigham Young University.
+v.121: two new signature variants (submitted by Preservica).</dc:description>
       </record_metadata>
     </details>
   </format>
@@ -77573,6 +77654,34 @@ The Digital Voice File (DVF) is an audio file format that was used for recording
         <regex>(?s)\x3cpdfaid:conformance\x3eF\x3c/pdfaid:conformance\x3e.*\x3cpdfaid:part\x3e4\x3c/pdfaid:part\x3e</regex>
       </pattern>
     </signature>
+    <signature>
+      <name>PDF/A-4f attribute variant 1</name>
+      <note>BOF &#8216;%PDF-2.&#8217;[0-9], then variable `pdfaid:part=""4""&#8217; then `pdfaid:conformance=""F""&#8217;</note>
+      <pattern>
+        <position>BOF</position>
+        <pronom_pattern>255044462D322E[30:39]</pronom_pattern>
+        <regex>(?s)\A%PDF-2\.[0-9]</regex>
+      </pattern>
+      <pattern>
+        <position>VAR</position>
+        <pronom_pattern>7064666169643A706172743D223422207064666169643A636F6E666F726D616E63653D224622</pronom_pattern>
+        <regex>(?s)pdfaid:part="4" pdfaid:conformance="F"</regex>
+      </pattern>
+    </signature>
+    <signature>
+      <name>PDF/A-4f attribute variant 2</name>
+      <note>BOF &#8216;%PDF-2.&#8217;[0-9], then variable `pdfaid:conformance=""F""&#8217; then `pdfaid:part=""4""&#8217;"	"</note>
+      <pattern>
+        <position>BOF</position>
+        <pronom_pattern>255044462D322E[30:39]</pronom_pattern>
+        <regex>(?s)\A%PDF-2\.[0-9]</regex>
+      </pattern>
+      <pattern>
+        <position>VAR</position>
+        <pronom_pattern>7064666169643A636F6E666F726D616E63653D224622207064666169643A706172743D223422</pronom_pattern>
+        <regex>(?s)pdfaid:conformance="F" pdfaid:part="4"</regex>
+      </pattern>
+    </signature>
     <details>
       <dc:description>PDF/A-4 is the file format described by ISO 19005-4:2020 &#8220;Document management &#8212; Electronic document file format for long-term preservation &#8212; Part 4: Use of ISO 32000-2 (PDF/A-4)&#8221;. It is the first of the PDF-Archival format family to be based on PDF 2.0. PDF/A-4f allows files of any format to be embedded.</dc:description>
       <dcterms:available />
@@ -77583,8 +77692,8 @@ The Digital Voice File (DVF) is an audio file format that was used for recording
         <status>unknown</status>
         <dc:creator>Preservica / Preservica</dc:creator>
         <dcterms:created>25 Aug 2023</dcterms:created>
-        <dcterms:modified>25 Aug 2023</dcterms:modified>
-        <dc:description />
+        <dcterms:modified>22 Sep 2025</dcterms:modified>
+        <dc:description>v.121: two new signature variants (submitted by Preservica).</dc:description>
       </record_metadata>
     </details>
   </format>
@@ -77668,8 +77777,8 @@ The Digital Voice File (DVF) is an audio file format that was used for recording
       <note>BOF; Offset: 0; Signature: 'ActiveMime'</note>
       <pattern>
         <position>BOF</position>
-        <pronom_pattern>4163746976654D696D65{2}010F</pronom_pattern>
-        <regex>(?s)\AActiveMime.{2}\x01\x0f</regex>
+        <pronom_pattern>4163746976654D696D65{2}01F0</pronom_pattern>
+        <regex>(?s)\AActiveMime.{2}\x01\xf0</regex>
       </pattern>
     </signature>
     <details>
@@ -77682,8 +77791,8 @@ The Digital Voice File (DVF) is an audio file format that was used for recording
         <status>unknown</status>
         <dc:creator>National Library of Australia / National Library of Australia</dc:creator>
         <dcterms:created>25 Aug 2023</dcterms:created>
-        <dcterms:modified>25 Aug 2023</dcterms:modified>
-        <dc:description />
+        <dcterms:modified>22 Sep 2025</dcterms:modified>
+        <dc:description>v.121: end byte corrected from 0F to F0. Submitted by National Library of Australia.</dc:description>
       </record_metadata>
     </details>
   </format>
@@ -78958,11 +79067,11 @@ This entry covers versions 3.x. Version 3.x introduced 8-byte (64bit) record siz
     <extension>sbxls</extension>
     <signature>
       <name>Sandboxels Save File</name>
-      <note>Absolute from beginning of file, magic bytes: {"meta":{"saveVersion":"sb(1|2}","gameVersion":"</note>
+      <note>Absolute from beginning of file, magic bytes: {"meta":{"saveVersion":"sb(1|2|3|4}","gameVersion":"</note>
       <pattern>
         <position>BOF</position>
-        <pronom_pattern>7B226D657461223A7B227361766556657273696F6E223A227362(31|32)222C2267616D6556657273696F6E223A</pronom_pattern>
-        <regex>(?s)\A\{"meta":\{"saveVersion":"sb(?:1|2)","gameVersion":</regex>
+        <pronom_pattern>7B226D657461223A7B227361766556657273696F6E223A227362(31|32|33|34)222C2267616D6556657273696F6E223A</pronom_pattern>
+        <regex>(?s)\A\{"meta":\{"saveVersion":"sb(?:1|2|3|4)","gameVersion":</regex>
       </pattern>
     </signature>
     <details>
@@ -78975,8 +79084,8 @@ This entry covers versions 3.x. Version 3.x introduced 8-byte (64bit) record siz
         <status>unknown</status>
         <dc:creator>R74n / R74n</dc:creator>
         <dcterms:created>11 Apr 2024</dcterms:created>
-        <dcterms:modified>11 Apr 2024</dcterms:modified>
-        <dc:description>04/24 (v.118): Internal signature added. Submitted by R74N; 07/24 (v.119): Added release date, corrected extension. Submitted by R74N.</dc:description>
+        <dcterms:modified>21 Jul 2025</dcterms:modified>
+        <dc:description>v.118: Internal signature added. Submitted by R74N; v.119: Added release date, corrected extension. Submitted by R74N; v.121: signature amended to allow for versions 3 and 4. Submitted by R74N.</dc:description>
       </record_metadata>
     </details>
   </format>
@@ -79346,16 +79455,17 @@ SolidWorks Library Feature Part (.sldlfp): Used in conjuntion with the SolidWork
     <extension>aea</extension>
     <signature>
       <name>Atrac Codec File v.1</name>
-      <note>BOF, offset 2896, magic bytes: &#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;..&#172;</note>
+      <note>Absolute from BOF, magic bytes: &#8230;.{260}(.|.)
+EOF, offset 0-1024: &#172;</note>
       <pattern>
         <position>BOF</position>
-        <pronom_pattern>AC</pronom_pattern>
-        <regex>(?s)\A.{2896}\xac</regex>
+        <pronom_pattern>00080000{260}(01|02)</pronom_pattern>
+        <regex>(?s)\A\x00\x08\x00\x00.{260}(?:\x01|\x02)</regex>
       </pattern>
       <pattern>
         <position>EOF</position>
         <pronom_pattern>AC</pronom_pattern>
-        <regex>(?s)\xac\Z</regex>
+        <regex>(?s)\xac.{0,1024}\Z</regex>
       </pattern>
     </signature>
     <details>
@@ -79368,8 +79478,8 @@ SolidWorks Library Feature Part (.sldlfp): Used in conjuntion with the SolidWork
         <status>unknown</status>
         <dc:creator>Bibliotheque Cantonale Universitaire de Fribourg / Bibliotheque Cantonale Universitaire de Fribourg</dc:creator>
         <dcterms:created>21 Mar 2024</dcterms:created>
-        <dcterms:modified>21 Mar 2024</dcterms:modified>
-        <dc:description />
+        <dcterms:modified>21 Jul 2025</dcterms:modified>
+        <dc:description>v.121: amended internal signature, added links to blogs. Brigham Young University.</dc:description>
       </record_metadata>
     </details>
   </format>
@@ -79447,8 +79557,8 @@ SolidWorks Library Feature Part (.sldlfp): Used in conjuntion with the SolidWork
       <note>BOF; Offset: 0; Magic Bytes: 'Finale' followed by either '&#170;' or '&#8482;' and then the version number ' 1'</note>
       <pattern>
         <position>BOF</position>
-        <pronom_pattern>46696E616C65(AA|28544D29)2031</pronom_pattern>
-        <regex>(?s)\AFinale(?:\xaa|\(TM\)) 1</regex>
+        <pronom_pattern>46696E616C65(AA|28544D29)(20|20504320)31</pronom_pattern>
+        <regex>(?s)\AFinale(?:\xaa|\(TM\))(?: | PC )1</regex>
       </pattern>
     </signature>
     <details>
@@ -79461,8 +79571,8 @@ SolidWorks Library Feature Part (.sldlfp): Used in conjuntion with the SolidWork
         <status>unknown</status>
         <dc:creator>Brigham Young University / Brigham Young University</dc:creator>
         <dcterms:created>16 Apr 2024</dcterms:created>
-        <dcterms:modified>16 Apr 2024</dcterms:modified>
-        <dc:description />
+        <dcterms:modified>09 Jun 2026</dcterms:modified>
+        <dc:description>v.123- Signature updated to allow for different PC versions. Submitted by Brigham Young University.</dc:description>
       </record_metadata>
     </details>
   </format>
@@ -79478,8 +79588,8 @@ SolidWorks Library Feature Part (.sldlfp): Used in conjuntion with the SolidWork
       <note>BOF; Offset: 0; Magic Bytes: 'Finale(TM) 2'</note>
       <pattern>
         <position>BOF</position>
-        <pronom_pattern>46696E616C6528544D292032</pronom_pattern>
-        <regex>(?s)\AFinale\(TM\) 2</regex>
+        <pronom_pattern>46696E616C65(28544D2920|28522920504320)32</pronom_pattern>
+        <regex>(?s)\AFinale(?:\(TM\) |\(R\) PC )2</regex>
       </pattern>
     </signature>
     <details>
@@ -79492,8 +79602,8 @@ SolidWorks Library Feature Part (.sldlfp): Used in conjuntion with the SolidWork
         <status>unknown</status>
         <dc:creator>Brigham Young University / Brigham Young University</dc:creator>
         <dcterms:created>17 Apr 2024</dcterms:created>
-        <dcterms:modified>17 Apr 2024</dcterms:modified>
-        <dc:description />
+        <dcterms:modified>09 Jun 2026</dcterms:modified>
+        <dc:description>v.123- Signature updated to allow for different PC versions. Submitted by Brigham Young University.</dc:description>
       </record_metadata>
     </details>
   </format>
@@ -80908,7 +81018,7 @@ SolidWorks Library Feature Part (.sldlfp): Used in conjuntion with the SolidWork
       <content_type>Aggregate</content_type>
       <record_metadata>
         <status>unknown</status>
-        <dc:creator>University of Alberta / University of Alberta</dc:creator>
+        <dc:creator>University of Alberta Archives / University of Alberta Archives</dc:creator>
         <dcterms:created>22 Aug 2024</dcterms:created>
         <dcterms:modified>22 Aug 2024</dcterms:modified>
         <dc:description />
@@ -80988,12 +81098,21 @@ SolidWorks Library Feature Part (.sldlfp): Used in conjuntion with the SolidWork
     <pronom_id>3892</pronom_id>
     <extension>oma</extension>
     <signature>
-      <name>Sony Open MG Audio</name>
-      <note>BOF; Offset: 0; Magic Bytes 'ea3.' followed in 996-3996 bytes by 'EA3'{1}0x0060{2}00000000010F5000</note>
+      <name>Sony OpenMG Audio</name>
+      <note>BOF, offset 0, magic bytes: ea3{3069}EA3</note>
       <pattern>
         <position>BOF</position>
-        <pronom_pattern>65613303{996-3996}454133{1}0060{2}00000000010F5000</pronom_pattern>
-        <regex>(?s)\Aea3\x03.{996,3996}EA3.{1}\x00\x60.{2}\x00\x00\x00\x00\x01\x0fP\x00</regex>
+        <pronom_pattern>656133{3069}454133</pronom_pattern>
+        <regex>(?s)\Aea3.{3069}EA3</regex>
+      </pattern>
+    </signature>
+    <signature>
+      <name>Sony OpenMG File</name>
+      <note>BOF offset 7, magic bytes: openMG</note>
+      <pattern>
+        <position>BOF</position>
+        <pronom_pattern>6F70656E4D47</pronom_pattern>
+        <regex>(?s)\A.{8,8}openMG</regex>
       </pattern>
     </signature>
     <details>
@@ -81006,8 +81125,8 @@ SolidWorks Library Feature Part (.sldlfp): Used in conjuntion with the SolidWork
         <status>unknown</status>
         <dc:creator>University of Melbourne / University of Melbourne</dc:creator>
         <dcterms:created>04 Oct 2024</dcterms:created>
-        <dcterms:modified>04 Oct 2024</dcterms:modified>
-        <dc:description />
+        <dcterms:modified>21 Jul 2025</dcterms:modified>
+        <dc:description>v.121: Amended internal signature and added internal signature 'Sony OpenMG File Format'. Brigham Young University.</dc:description>
       </record_metadata>
     </details>
   </format>
@@ -81178,6 +81297,7 @@ SolidWorks Library Feature Part (.sldlfp): Used in conjuntion with the SolidWork
     <alias />
     <pronom_id>3898</pronom_id>
     <extension>cdp</extension>
+    <has_priority_over>fmt/1886</has_priority_over>
     <signature>
       <name>CD Architect 4</name>
       <note>BOF; Offset: 0; Magic Bytes: 'RIFF' and then after four bytes 'SFPJ'</note>
@@ -81197,8 +81317,8 @@ SolidWorks Library Feature Part (.sldlfp): Used in conjuntion with the SolidWork
         <status>unknown</status>
         <dc:creator>Brigham Young University / Brigham Young University</dc:creator>
         <dcterms:created>10 Jan 2025</dcterms:created>
-        <dcterms:modified>10 Jan 2025</dcterms:modified>
-        <dc:description />
+        <dcterms:modified>21 Jul 2025</dcterms:modified>
+        <dc:description>v.121: Added priority over Resource Interchange File Format (fmt/1886). Submitted by Brigham Young University.</dc:description>
       </record_metadata>
     </details>
   </format>
@@ -81296,8 +81416,8 @@ SolidWorks Library Feature Part (.sldlfp): Used in conjuntion with the SolidWork
         <status>unknown</status>
         <dc:creator>National Library of Australia / National Library of Australia</dc:creator>
         <dcterms:created>21 Jan 2025</dcterms:created>
-        <dcterms:modified>21 Jan 2025</dcterms:modified>
-        <dc:description />
+        <dcterms:modified>21 Jul 2025</dcterms:modified>
+        <dc:description>v.121: removed whitespace from file name. Preservica.</dc:description>
       </record_metadata>
     </details>
   </format>
@@ -81696,6 +81816,1999 @@ EOF offset 0-16: &lt;/resources&gt;</note>
         <dc:creator>Brigham Young University / Brigham Young University</dc:creator>
         <dcterms:created>05 Feb 2025</dcterms:created>
         <dcterms:modified>05 Feb 2025</dcterms:modified>
+        <dc:description />
+      </record_metadata>
+    </details>
+  </format>
+  <format>
+    <puid>fmt/2040</puid>
+    <name>CityGML File</name>
+    <version>1.0</version>
+    <alias />
+    <pronom_id>3915</pronom_id>
+    <extension>gml</extension>
+    <extension>xml</extension>
+    <has_priority_over>x-fmt/227</has_priority_over>
+    <signature>
+      <name>CityGML File</name>
+      <note>Absolute from beginning of file, magic bytes: &lt;?xml version=(&#8220;|&#8217;)1.0(&#8220;|&#8217;){0-320}(&lt;|:)CityModel{0-1024}xmlns{0-8}=(&#8220;|&#8217;) http://www.opengis.net/citygml/1.0(&#8220;|&#8217;)</note>
+      <pattern>
+        <position>BOF</position>
+        <pronom_pattern>3C3F786D6C2076657273696F6E3D(22|27)312E30(22|27){0-320}(3C|3A)436974794D6F64656C{0-1024}786D6C6E73{0-8}3D(22|27)687474703A2F2F7777772E6F70656E6769732E6E65742F63697479676D6C2F312E30(22|27)</pronom_pattern>
+        <regex>(?s)\A\x3c\?xml version=(?:"|')1\.0(?:"|').{0,320}(?:\x3c|:)CityModel.{0,1024}xmlns.{0,8}=(?:"|')http://www\.opengis\.net/citygml/1\.0(?:"|')</regex>
+      </pattern>
+    </signature>
+    <details>
+      <dc:description>CityGML (City Geography Markup Language) defines a data model and XML-based exchange format for the representation of 3D city and landscape models. It is implemented as a GML application schema, a specialisation of the Geography Markup Language. CityGML was originally developed by the Special Interest Group 3D of the initiative Geodata Infrastructure North-Rhine Westphalia (GDI NRW).</dc:description>
+      <dcterms:available />
+      <dc:creator />
+      <dcterms:publisher />
+      <content_type>GIS, Text (Mark-up)</content_type>
+      <record_metadata>
+        <status>unknown</status>
+        <dc:creator>Landesarchiv Nordrhein-Westfalen / Landesarchiv Nordrhein-Westfalen</dc:creator>
+        <dcterms:created>21 Jul 2025</dcterms:created>
+        <dcterms:modified>21 Jul 2025</dcterms:modified>
+        <dc:description />
+      </record_metadata>
+    </details>
+  </format>
+  <format>
+    <puid>fmt/2041</puid>
+    <name>Android Package File</name>
+    <version />
+    <alias />
+    <pronom_id>3916</pronom_id>
+    <extension>apk</extension>
+    <has_priority_over>x-fmt/263</has_priority_over>
+    <details>
+      <dc:description>Android Package is file format used by the Android operating system and other Android-based operating systems for the distribution and installation of mobile apps and games. It is an extension of both the Java Archive format and the ZIP container format.</dc:description>
+      <dcterms:available />
+      <dc:creator />
+      <dcterms:publisher />
+      <content_type>Aggregate</content_type>
+      <record_metadata>
+        <status>unknown</status>
+        <dc:creator />
+        <dcterms:created>21 Jul 2025</dcterms:created>
+        <dcterms:modified>21 Jul 2025</dcterms:modified>
+        <dc:description>v.121:new PUID.
+This format can be identified via a container signature in DROID version 6 or later. The PRONOM database cannot currently represent container signatures.</dc:description>
+      </record_metadata>
+    </details>
+  </format>
+  <format>
+    <puid>fmt/2042</puid>
+    <name>Android App Bundle File</name>
+    <version />
+    <alias />
+    <pronom_id>3917</pronom_id>
+    <extension>aab</extension>
+    <details>
+      <dc:description>Android App Bundle files are the container format in which developers upload their applications to the Google Play Store.</dc:description>
+      <dcterms:available />
+      <dc:creator />
+      <dcterms:publisher />
+      <content_type>Aggregate</content_type>
+      <record_metadata>
+        <status>unknown</status>
+        <dc:creator />
+        <dcterms:created>21 Jul 2025</dcterms:created>
+        <dcterms:modified>24 Nov 2025</dcterms:modified>
+        <dc:description>v.121: New PUID; v.122- Internal signature removed, submitted by Preservica
+This format can be identified via a container signature in DROID version 6 or later. The PRONOM database cannot currently represent container signatures.</dc:description>
+      </record_metadata>
+    </details>
+  </format>
+  <format>
+    <puid>fmt/2043</puid>
+    <name>Android Archive File</name>
+    <version />
+    <alias />
+    <pronom_id>3918</pronom_id>
+    <extension>aar</extension>
+    <signature>
+      <name>Android Archive File</name>
+      <note>Absolute from beginning of file, magic bytes: [Content_Types].xml &#162;</note>
+      <pattern>
+        <position>BOF</position>
+        <pronom_pattern>5B436F6E74656E745F54797065735D2E786D6C20A2</pronom_pattern>
+        <regex>(?s)\A\[Content_Types\]\.xml \xa2</regex>
+      </pattern>
+    </signature>
+    <details>
+      <dc:description>An Android library file contains everything needed to build an Android app, but instead of compiling this into an Android Package FIle (apk) that runs on a device, an Android library compiles into an Android Archive (aar) file that can be used as a dependency for another Android app.</dc:description>
+      <dcterms:available />
+      <dc:creator />
+      <dcterms:publisher />
+      <content_type>Aggregate</content_type>
+      <record_metadata>
+        <status>unknown</status>
+        <dc:creator />
+        <dcterms:created>21 Jul 2025</dcterms:created>
+        <dcterms:modified>21 Jul 2025</dcterms:modified>
+        <dc:description>v.121: New PUID.
+Note: This format can be identified via a container signature in DROID version 6 or later. The PRONOM database cannot currently represent container signatures.</dc:description>
+      </record_metadata>
+    </details>
+  </format>
+  <format>
+    <puid>fmt/2044</puid>
+    <mime>application/vnd.oasis.opendocument.text</mime>
+    <name>OpenDocument Text</name>
+    <version>1.4</version>
+    <alias />
+    <pronom_id>3919</pronom_id>
+    <extension>odt</extension>
+    <has_priority_over>fmt/135</has_priority_over>
+    <has_priority_over>fmt/290</has_priority_over>
+    <details>
+      <dc:description>OpenDocument (ODF) format is a generic format for office documents, such as text, spreadsheets, presentations, drawings, and databases. It was developed by OASIS, based on the original OpenOffice document format. The format is an open standard, and is supported by a variety of office software packages. ODF is an XML format, which may comprise a single XML document, or a collection of subdocuments within a package. The package format is the commonly used form, and comprises a standard ZIP package containing the XML content and any associated binary data, together with a manifest which lists the package content. An ODF text document contains word-processed text. The content is contained in a 'content' xml subdocument. Additional subdocuments contain style information, document metadata, and application-specific settings.</dc:description>
+      <dcterms:available />
+      <dc:creator />
+      <dcterms:publisher />
+      <content_type>Word Processor</content_type>
+      <record_metadata>
+        <status>unknown</status>
+        <dc:creator>Preservica / Preservica</dc:creator>
+        <dcterms:created>21 Jul 2025</dcterms:created>
+        <dcterms:modified>21 Jul 2025</dcterms:modified>
+        <dc:description>Note: This format can be identified via a container signature in DROID version 6 or later; v.121: new PUID. (Submitted by Preservica.); v.122: Added priority over OpenDocument Text 1.1. Submitted by Preservica.</dc:description>
+      </record_metadata>
+    </details>
+  </format>
+  <format>
+    <puid>fmt/2045</puid>
+    <mime>application/vnd.oasis.opendocument.spreadsheet</mime>
+    <name>OpenDocument Spreadsheet</name>
+    <version>1.4</version>
+    <alias />
+    <pronom_id>3920</pronom_id>
+    <extension>ods</extension>
+    <has_priority_over>fmt/135</has_priority_over>
+    <has_priority_over>fmt/294</has_priority_over>
+    <details>
+      <dc:description>OpenDocument (ODF) format is a generic format for office documents, such as text, spreadsheets, presentations, drawings, and databases. It was developed by OASIS, based on the original OpenOffice document format. The format is an open standard, and is supported by a variety of office software packages. ODF is an XML format, which may comprise a single XML document, or a collection of subdocuments within a package. The package format is the commonly used form, and comprises a standard ZIP package containing the XML content and any associated binary data, together with a manifest which lists the package content. An ODF spreadsheet document contains spreadsheet data. The content is contained in a 'content' xml subdocument. Additional subdocuments contain style information, document metadata, and application-specific settings.</dc:description>
+      <dcterms:available />
+      <dc:creator />
+      <dcterms:publisher />
+      <content_type>Spreadsheet</content_type>
+      <record_metadata>
+        <status>unknown</status>
+        <dc:creator>Preservica / Preservica</dc:creator>
+        <dcterms:created>21 Jul 2025</dcterms:created>
+        <dcterms:modified>21 Jul 2025</dcterms:modified>
+        <dc:description>Note: This format can be identified via a container signature in DROID version 6 or later.
+v.121: new PUID.
+V.122: Added priority (submitted by Preservica.)</dc:description>
+      </record_metadata>
+    </details>
+  </format>
+  <format>
+    <puid>fmt/2046</puid>
+    <mime>application/vnd.oasis.opendocument.presentation</mime>
+    <name>OpenDocument Presentation</name>
+    <version>1.4</version>
+    <alias />
+    <pronom_id>3921</pronom_id>
+    <extension>odp</extension>
+    <has_priority_over>fmt/135</has_priority_over>
+    <has_priority_over>fmt/292</has_priority_over>
+    <details>
+      <dc:description>OpenDocument (ODF) format is a generic format for office documents, such as text, spreadsheets, presentations, drawings, and databases. It was developed by OASIS, based on the original OpenOffice document format. The format is an open standard, and is supported by a variety of office software packages. ODF is an XML format, which may comprise a single XML document, or a collection of subdocuments within a package. The package format is the commonly used form, and comprises a standard ZIP package containing the XML content and any associated binary data, together with a manifest which lists the package content. An ODF presentation document contains a graphical presentation. The content is contained in a 'content' xml subdocument. Additional subdocuments contain style information, document metadata, and application-specific settings.</dc:description>
+      <dcterms:available />
+      <dc:creator />
+      <dcterms:publisher />
+      <content_type>Presentation</content_type>
+      <record_metadata>
+        <status>unknown</status>
+        <dc:creator>Preservica / Preservica</dc:creator>
+        <dcterms:created>21 Jul 2025</dcterms:created>
+        <dcterms:modified>21 Jul 2025</dcterms:modified>
+        <dc:description>Note: This format can be identified via a container signature in DROID version 6 or later.
+v.121: new PUID.</dc:description>
+      </record_metadata>
+    </details>
+  </format>
+  <format>
+    <puid>fmt/2047</puid>
+    <mime>application/vnd.oasis.opendocument.base</mime>
+    <name>OpenDocument Database</name>
+    <version>1.4</version>
+    <alias />
+    <pronom_id>3922</pronom_id>
+    <extension>odb</extension>
+    <has_priority_over>fmt/135</has_priority_over>
+    <has_priority_over>fmt/444</has_priority_over>
+    <details>
+      <dc:description>OpenDocument (ODF) format is a generic format for office documents, such as text, spreadsheets, presentations, drawings, and databases. It was developed by OASIS, based on the original OpenOffice document format. The format is an open standard, and is supported by a variety of office software packages. ODF is an XML format, which may comprise a single XML document, or a collection of subdocuments within a package. The package format is the commonly used form, and comprises a standard ZIP package containing the XML content and any associated binary data, together with a manifest which lists the package content. An ODF database document contains a relational database. The content is contained in a 'content' xml subdocument. Additional subdocuments contain style information, document metadata, and application-specific settings</dc:description>
+      <dcterms:available />
+      <dc:creator />
+      <dcterms:publisher />
+      <content_type>Database</content_type>
+      <record_metadata>
+        <status>unknown</status>
+        <dc:creator>Preservica / Preservica</dc:creator>
+        <dcterms:created>21 Jul 2025</dcterms:created>
+        <dcterms:modified>21 Jul 2025</dcterms:modified>
+        <dc:description>Note: This format can be identified via a container signature in DROID version 6 or later.
+V.121: new PUID.</dc:description>
+      </record_metadata>
+    </details>
+  </format>
+  <format>
+    <puid>fmt/2048</puid>
+    <mime>application/vnd.oasis.opendocument.graphics</mime>
+    <name>OpenDocument Graphics</name>
+    <version>1.4</version>
+    <alias />
+    <pronom_id>3923</pronom_id>
+    <extension>odg</extension>
+    <has_priority_over>fmt/135</has_priority_over>
+    <has_priority_over>fmt/296</has_priority_over>
+    <details>
+      <dc:description>OpenDocument (ODF) format is a generic format for office documents, such as text, spreadsheets, presentations, drawings, and databases. It was developed by OASIS, based on the original OpenOffice document format. The format is an open standard, and is supported by a variety of office software packages. ODF is an XML format, which may comprise a single XML document, or a collection of subdocuments within a package. The package format is the commonly used form, and comprises a standard ZIP package containing the XML content and any associated binary data, together with a manifest which lists the package content. An ODF drawing document contains drawing data. The content is contained in a 'content' xml subdocument. Additional subdocuments contain style information, document metadata, and application-specific settings.</dc:description>
+      <dcterms:available />
+      <dc:creator />
+      <dcterms:publisher />
+      <content_type>Image (Vector)</content_type>
+      <record_metadata>
+        <status>unknown</status>
+        <dc:creator>Preservica / Preservica</dc:creator>
+        <dcterms:created>21 Jul 2025</dcterms:created>
+        <dcterms:modified>21 Jul 2025</dcterms:modified>
+        <dc:description>Note: This format can be identified via a container signature in DROID version 6 or later.
+v.121: new PUID</dc:description>
+      </record_metadata>
+    </details>
+  </format>
+  <format>
+    <puid>fmt/2049</puid>
+    <name>ArcGIS Pro Layer File</name>
+    <version />
+    <alias />
+    <pronom_id>3924</pronom_id>
+    <extension>lyrx</extension>
+    <signature>
+      <name>ArcGIS Pro Layer File</name>
+      <note>Absolute from beginning of file, magic bytes: {{0-1}"type" : "CIMLayerDocument",{0-1}..  "version" : "</note>
+      <pattern>
+        <position>BOF</position>
+        <pronom_pattern>7B{0-1}0A2020227479706522203A202243494D4C61796572446F63756D656E74222C{0-1}0A20202276657273696F6E22203A2022</pronom_pattern>
+        <regex>(?s)\A\{.{0,1}\n  "type" : "CIMLayerDocument",.{0,1}\n  "version" : "</regex>
+      </pattern>
+    </signature>
+    <details>
+      <dc:description>ArcGIS Pro Layer Files are metadata storage files used in ArcGIS Pro which store all settings for layer file properties. As they are proprietary, they are directly readable only by ArcGIS software. Lyrx files are in a JSON-based text format.</dc:description>
+      <dcterms:available />
+      <dc:creator>Esri / Esri</dc:creator>
+      <dcterms:publisher>Esri</dcterms:publisher>
+      <content_type>GIS</content_type>
+      <record_metadata>
+        <status>unknown</status>
+        <dc:creator>Preservica / Preservica</dc:creator>
+        <dcterms:created>21 Jul 2025</dcterms:created>
+        <dcterms:modified>21 Jul 2025</dcterms:modified>
+        <dc:description>v.121: new PUID.</dc:description>
+      </record_metadata>
+    </details>
+  </format>
+  <format>
+    <puid>fmt/2050</puid>
+    <mime>application/pdf</mime>
+    <name>PDF/UA Portable Document Format</name>
+    <version>1</version>
+    <alias>PDF/UA-1</alias>
+    <pronom_id>3925</pronom_id>
+    <extension>pdf</extension>
+    <has_priority_over>fmt/276</has_priority_over>
+    <signature>
+      <name>PDF/UA-1</name>
+      <note>BOF: &#8216;%PDF-1.7&#8217; then later in the document &#8216;&lt;pdfuaid:part&gt;1&lt;/pdfuaid:part&gt;&#8217;</note>
+      <pattern>
+        <position>BOF</position>
+        <pronom_pattern>255044462D312E37*3C706466756169643A706172743E313C2F706466756169643A706172743E</pronom_pattern>
+        <regex>(?s)\A%PDF-1\.7.*\x3cpdfuaid:part\x3e1\x3c/pdfuaid:part\x3e</regex>
+      </pattern>
+    </signature>
+    <details>
+      <dc:description>Standardized by ISO 14289-1:2014, PDF/UA-1 is a constrained subset of PDF 1.7 (ISO 32000-1) focused on maximising accessibility and support for assistive technologies. Note that files may conform to both PDF/UA and PDF/A, which will result in multiple identification outcomes from DROID. Neither format is the more specific PDF subset, so it is inappropriate to prioritise identification of one over the other.</dc:description>
+      <dcterms:available />
+      <dc:creator>ISO / ISO</dc:creator>
+      <dcterms:publisher>ISO</dcterms:publisher>
+      <content_type>Page Description</content_type>
+      <record_metadata>
+        <status>unknown</status>
+        <dc:creator>Preservica / Preservica</dc:creator>
+        <dcterms:created>21 Jul 2025</dcterms:created>
+        <dcterms:modified>21 Jul 2025</dcterms:modified>
+        <dc:description>v.121: new PUID.</dc:description>
+      </record_metadata>
+    </details>
+  </format>
+  <format>
+    <puid>fmt/2052</puid>
+    <mime>application/pdf</mime>
+    <name>PDF/UA Portable Document Format</name>
+    <version>2</version>
+    <alias>PDF/UA-2</alias>
+    <pronom_id>3926</pronom_id>
+    <extension>pdf</extension>
+    <has_priority_over>fmt/1129</has_priority_over>
+    <signature>
+      <name>PDF/UA-2</name>
+      <note>BOF: &#8216;%PDF-2.0&#8217; then later in the document &#8216;pdfuaid:part="2"&#8217;</note>
+      <pattern>
+        <position>BOF</position>
+        <pronom_pattern>255044462D322E30*706466756169643A706172743D223222</pronom_pattern>
+        <regex>(?s)\A%PDF-2\.0.*pdfuaid:part="2"</regex>
+      </pattern>
+    </signature>
+    <details>
+      <dc:description>Standardized by ISO 14289-2:2024, PDF/UA-2 is a constrained subset of PDF 2.0 (ISO 32000-2:2020) focused on maximising accessibility and support for assistive technologies. Note that files may conform to both PDF/UA and PDF/A, which will result in multiple identification outcomes from DROID. Neither format is the more specific PDF subset, so it is inappropriate to prioritise identification of one over the other.</dc:description>
+      <dcterms:available />
+      <dc:creator>ISO / ISO</dc:creator>
+      <dcterms:publisher>ISO</dcterms:publisher>
+      <content_type>Page Description</content_type>
+      <record_metadata>
+        <status>unknown</status>
+        <dc:creator />
+        <dcterms:created>21 Jul 2025</dcterms:created>
+        <dcterms:modified>21 Jul 2025</dcterms:modified>
+        <dc:description>v.121: new PUID.</dc:description>
+      </record_metadata>
+    </details>
+  </format>
+  <format>
+    <puid>fmt/2051</puid>
+    <name>Cineon</name>
+    <version />
+    <alias />
+    <pronom_id>3927</pronom_id>
+    <extension>cin</extension>
+    <signature>
+      <name>Cineon</name>
+      <note>Absolute from BOF, magic bytes: 0x802A5FD7</note>
+      <pattern>
+        <position>BOF</position>
+        <pronom_pattern>802A5FD7</pronom_pattern>
+        <regex>(?s)\A\x80\*_\xd7</regex>
+      </pattern>
+    </signature>
+    <details>
+      <dc:description>Cineon is an image format created by Kodak designed to represent scanned film images. Individual Cineon files are raster images, however the typical use is for a sequence of Cineon images to represent frame-by-frame digital motion picture video. Digital Moving Picture Exchange Bitmap (DPX) is directly descended from Cineon.</dc:description>
+      <dcterms:available />
+      <dc:creator>Kodak / Kodak</dc:creator>
+      <dcterms:publisher>Kodak</dcterms:publisher>
+      <content_type>Image (Raster)</content_type>
+      <record_metadata>
+        <status>unknown</status>
+        <dc:creator>Preservica / Preservica</dc:creator>
+        <dcterms:created>21 Jul 2025</dcterms:created>
+        <dcterms:modified>21 Jul 2025</dcterms:modified>
+        <dc:description>v.121: new PUID.</dc:description>
+      </record_metadata>
+    </details>
+  </format>
+  <format>
+    <puid>fmt/2053</puid>
+    <mime>vnd.apache.arrow.file</mime>
+    <name>Apache Arrow IPC Format</name>
+    <version />
+    <alias />
+    <pronom_id>3928</pronom_id>
+    <extension>arrow</extension>
+    <signature>
+      <name>Apache Arrow IPC Format</name>
+      <note>Absolute from BOF, magic bytes: ARROW1 
+Absolute from EOF, magic bytes: ARROW1</note>
+      <pattern>
+        <position>BOF</position>
+        <pronom_pattern>4152524F5731</pronom_pattern>
+        <regex>(?s)\AARROW1</regex>
+      </pattern>
+      <pattern>
+        <position>EOF</position>
+        <pronom_pattern>4152524F5731</pronom_pattern>
+        <regex>(?s)ARROW1\Z</regex>
+      </pattern>
+    </signature>
+    <details>
+      <dc:description>Apache Arrow is used for handling data generated by large scale applications, having a columnar memory format and standard data interchange which can represent dynamic datasets.</dc:description>
+      <dcterms:available />
+      <dc:creator>The Apache Software Foundation / The Apache Software Foundation</dc:creator>
+      <dcterms:publisher>The Apache Software Foundation</dcterms:publisher>
+      <content_type>Text (Structured)</content_type>
+      <record_metadata>
+        <status>unknown</status>
+        <dc:creator>Digital Preservation Department / The National Archives</dc:creator>
+        <dcterms:created>21 Jul 2025</dcterms:created>
+        <dcterms:modified>21 Jul 2025</dcterms:modified>
+        <dc:description>v.121: new PUID</dc:description>
+      </record_metadata>
+    </details>
+  </format>
+  <format>
+    <puid>fmt/2054</puid>
+    <name>JSON Lines Text Format</name>
+    <version />
+    <alias />
+    <pronom_id>3929</pronom_id>
+    <extension>jsonl</extension>
+    <details>
+      <dc:description>The JSON Lines text format, also called newline-delimited JSON. JSON Lines is used to store structured data that may be processed one record at a time, and is also a flexible format for passing messages between cooperating processes. It works well with unix-style text processing tools, shell pipelines and log files.
+There are three requirements to JSONL:
+UTF-8 Encoding
+Each Line is a Valid JSON Value
+Line Separator is '\n'</dc:description>
+      <dcterms:available />
+      <dc:creator>Ian Ward / Ian Ward</dc:creator>
+      <dcterms:publisher>Ian Ward</dcterms:publisher>
+      <content_type>Text (Structured)</content_type>
+      <record_metadata>
+        <status>unknown</status>
+        <dc:creator>Ross Spencer / Ravensburger AG</dc:creator>
+        <dcterms:created>21 Jul 2025</dcterms:created>
+        <dcterms:modified>21 Jul 2025</dcterms:modified>
+        <dc:description>v.121: new PUID.</dc:description>
+      </record_metadata>
+    </details>
+  </format>
+  <format>
+    <puid>fmt/2055</puid>
+    <name>Apple Mail EMLX Format</name>
+    <version />
+    <alias />
+    <pronom_id>3930</pronom_id>
+    <extension>emlx</extension>
+    <has_priority_over>fmt/96</has_priority_over>
+    <has_priority_over>fmt/950</has_priority_over>
+    <signature>
+      <name>Apple Mail EMLX Format</name>
+      <note>This format has a BOF signature identical to MIME Email (fmt/950):
+MIME-(V|v)ersion: 1.0 or Mime-(V|v)ersion: 1.0
+To: 
+From: 
+Date: 
+Content-(T|t)ype:
+
+It then has an EOF signature of: &lt;/plist&gt;.</note>
+      <pattern>
+        <position>EOF</position>
+        <pronom_pattern>3C2F706C6973743E</pronom_pattern>
+        <regex>(?s)\x3c/plist\x3e.{0,8}\Z</regex>
+      </pattern>
+      <pattern>
+        <position>BOF</position>
+        <pronom_pattern>4D(494D45|696D65)2D(56|76)657273696F6E3A20312E30</pronom_pattern>
+        <regex>(?s)\A.{0,16384}M(?:IME|ime)-(?:V|v)ersion: 1\.0</regex>
+      </pattern>
+      <pattern>
+        <position>BOF</position>
+        <pronom_pattern>546F3A20</pronom_pattern>
+        <regex>(?s)\A.{0,16384}To: </regex>
+      </pattern>
+      <pattern>
+        <position>BOF</position>
+        <pronom_pattern>46726F6D3A20</pronom_pattern>
+        <regex>(?s)\A.{0,16384}From: </regex>
+      </pattern>
+      <pattern>
+        <position>BOF</position>
+        <pronom_pattern>446174653A20</pronom_pattern>
+        <regex>(?s)\A.{0,16384}Date: </regex>
+      </pattern>
+      <pattern>
+        <position>BOF</position>
+        <pronom_pattern>436F6E74656E742D(54|74)7970653A20</pronom_pattern>
+        <regex>(?s)\A.{0,16384}Content-(?:T|t)ype: </regex>
+      </pattern>
+    </signature>
+    <details>
+      <dc:description>The EMLX file format, introduced by Apple for MacOS in 2005 with Mac OS X Tiger (10.4) in Mail version 2, is used to store email files in Apple Mail. It is a proprietary variation of the EML format, with added byte count and property list (plist) features to record email metadata. Each email is stored as an individual EMLX file, with the byte count at the beginning indicating the email&#8217;s size.</dc:description>
+      <dcterms:available />
+      <dc:creator>Apple Computer, Inc.</dc:creator>
+      <dcterms:publisher>Apple Computer, Inc.</dcterms:publisher>
+      <content_type>Text (Structured)</content_type>
+      <record_metadata>
+        <status>unknown</status>
+        <dc:creator>Brigham Young University / Brigham Young University</dc:creator>
+        <dcterms:created>21 Jul 2025</dcterms:created>
+        <dcterms:modified>21 Jul 2025</dcterms:modified>
+        <dc:description>v.121: new PUID.</dc:description>
+      </record_metadata>
+    </details>
+  </format>
+  <format>
+    <puid>fmt/2056</puid>
+    <name>Immersive Audio Model Format</name>
+    <version />
+    <alias />
+    <pronom_id>3931</pronom_id>
+    <extension>iamf</extension>
+    <signature>
+      <name>Immersive Audio Model Format</name>
+      <note>Aboslute from BOF, magic bytes: obu_type=OBU_IA_Sequence_Header (0xF8 or 0xFC), size: 6 bytes (0x06), ia_code=&#8217;iamf&#8217; (Noted here: https://aomediacodec.github.io/iamf/v1.0.0-errata.html#ia_code)</note>
+      <pattern>
+        <position>BOF</position>
+        <pronom_pattern>(F8|FC)0669616D66</pronom_pattern>
+        <regex>(?s)\A(?:\xf8|\xfc)\x06iamf</regex>
+      </pattern>
+    </signature>
+    <details>
+      <dc:description>IAMF is a spatial audio format intended as a royalty-free alternative to Dolby Atmos, developed by the Alliance for Open Media. This entry covers a standalone IAMF file that is not contained by ISO-BMFF (MP4) or other audio container format.</dc:description>
+      <dcterms:available />
+      <dc:creator />
+      <dcterms:publisher />
+      <content_type>Audio</content_type>
+      <record_metadata>
+        <status>unknown</status>
+        <dc:creator>Preservica / Preservica</dc:creator>
+        <dcterms:created>21 Jul 2025</dcterms:created>
+        <dcterms:modified>21 Jul 2025</dcterms:modified>
+        <dc:description>v.121: new PUID</dc:description>
+      </record_metadata>
+    </details>
+  </format>
+  <format>
+    <puid>fmt/2057</puid>
+    <name>A2R Disk Image File</name>
+    <version>2</version>
+    <alias />
+    <pronom_id>3932</pronom_id>
+    <extension>a2r</extension>
+    <signature>
+      <name>A2R Disk Image File v.2 (little endian)</name>
+      <note>BOF, offset zero, magic bytes: A2R2&#255;</note>
+      <pattern>
+        <position>BOF</position>
+        <pronom_pattern>41325232FF0A0D0A</pronom_pattern>
+        <regex>(?s)\AA2R2\xff\n\r\n</regex>
+      </pattern>
+    </signature>
+    <details>
+      <dc:description>The A2R disk image format provides a detailed, low-level capture of the contents of Apple II and early Macintosh disks. Due to its comprehensive nature, A2R files are significantly larger than other formats like the WOZ disk image format, which aim to replicate only the data originally written to the disk. Instead, A2R captures the raw magnetic patterns of the disk, making it easier to work with old, barely readable disks, although it requires further processing to extract the original data.</dc:description>
+      <dcterms:available />
+      <dc:creator />
+      <dcterms:publisher />
+      <content_type>Presentation</content_type>
+      <record_metadata>
+        <status>unknown</status>
+        <dc:creator>Brigham Young University / Brigham Young University</dc:creator>
+        <dcterms:created>21 Jul 2025</dcterms:created>
+        <dcterms:modified>21 Jul 2025</dcterms:modified>
+        <dc:description>v.121: new PUID; v.122- corrected identifiers from LOC to wikidata. Submitted by Yale University Library.</dc:description>
+      </record_metadata>
+    </details>
+  </format>
+  <format>
+    <puid>fmt/2058</puid>
+    <name>A2R Disk Image File</name>
+    <version>3</version>
+    <alias />
+    <pronom_id>3933</pronom_id>
+    <extension>a2r</extension>
+    <signature>
+      <name>A2R Disk Image File v.3 (little endian)</name>
+      <note>Absolute from BOF, magic bytes: A2R3&#255;</note>
+      <pattern>
+        <position>BOF</position>
+        <pronom_pattern>41325233FF0A0D0A</pronom_pattern>
+        <regex>(?s)\AA2R3\xff\n\r\n</regex>
+      </pattern>
+    </signature>
+    <details>
+      <dc:description>The A2R disk image format provides a detailed, low-level capture of the contents of Apple II and early Macintosh disks. Due to its comprehensive nature, A2R files are significantly larger than other formats like the WOZ disk image format, which aim to replicate only the data originally written to the disk. Instead, A2R captures the raw magnetic patterns of the disk, making it easier to work with old, barely readable disks, although it requires further processing to extract the original data.</dc:description>
+      <dcterms:available />
+      <dc:creator />
+      <dcterms:publisher />
+      <content_type>Presentation</content_type>
+      <record_metadata>
+        <status>unknown</status>
+        <dc:creator>Brigham Young University / Brigham Young University</dc:creator>
+        <dcterms:created>21 Jul 2025</dcterms:created>
+        <dcterms:modified>21 Jul 2025</dcterms:modified>
+        <dc:description>v.121: new PUID; v.122- corrected identifiers from LOC to wikidata. Submitted by Yale University Library.</dc:description>
+      </record_metadata>
+    </details>
+  </format>
+  <format>
+    <puid>fmt/2059</puid>
+    <name>WOZ Disk Image File</name>
+    <version>1</version>
+    <alias />
+    <pronom_id>3934</pronom_id>
+    <extension>woz</extension>
+    <signature>
+      <name>WOZ Disk Image File v.1 (little endian)</name>
+      <note>Absolute from BOF, magic bytes:WOZ1&#255;</note>
+      <pattern>
+        <position>BOF</position>
+        <pronom_pattern>574F5A31FF0A0D0A</pronom_pattern>
+        <regex>(?s)\AWOZ1\xff\n\r\n</regex>
+      </pattern>
+    </signature>
+    <details>
+      <dc:description>WOZ is a disk image format for Apple II, introduced in 2018. It aims to faithfully reproduce the data layout of a disk, even those with proprietary copy-protection schemes. This format is connected to the Applesauce project.</dc:description>
+      <dcterms:available />
+      <dc:creator />
+      <dcterms:publisher />
+      <content_type>Presentation</content_type>
+      <record_metadata>
+        <status>unknown</status>
+        <dc:creator>Brigham Young University / Brigham Young University</dc:creator>
+        <dcterms:created>21 Jul 2025</dcterms:created>
+        <dcterms:modified>21 Jul 2025</dcterms:modified>
+        <dc:description>v.121: new PUID.</dc:description>
+      </record_metadata>
+    </details>
+  </format>
+  <format>
+    <puid>fmt/2060</puid>
+    <name>WOZ Disk Image File</name>
+    <version>2</version>
+    <alias />
+    <pronom_id>3935</pronom_id>
+    <extension>woz</extension>
+    <signature>
+      <name>WOZ Disk Image File v.2 (little endian)</name>
+      <note>Absolute from BOF, magic bytes: WOZ2&#255;</note>
+      <pattern>
+        <position>BOF</position>
+        <pronom_pattern>574F5A32FF0A0D0A</pronom_pattern>
+        <regex>(?s)\AWOZ2\xff\n\r\n</regex>
+      </pattern>
+    </signature>
+    <details>
+      <dc:description>WOZ is a disk image format for Apple II, introduced in 2018. It aims to faithfully reproduce the data layout of a disk, even those with proprietary copy-protection schemes. This format is connected to the Applesauce project.</dc:description>
+      <dcterms:available />
+      <dc:creator />
+      <dcterms:publisher />
+      <content_type>Presentation</content_type>
+      <record_metadata>
+        <status>unknown</status>
+        <dc:creator>Brigham Young University / Brigham Young University</dc:creator>
+        <dcterms:created>21 Jul 2025</dcterms:created>
+        <dcterms:modified>21 Jul 2025</dcterms:modified>
+        <dc:description>v.121: new PUID.</dc:description>
+      </record_metadata>
+    </details>
+  </format>
+  <format>
+    <puid>fmt/2061</puid>
+    <name>MOOF Disk Image File</name>
+    <version>1</version>
+    <alias />
+    <pronom_id>3936</pronom_id>
+    <extension>moof</extension>
+    <signature>
+      <name>MOOF Disk Image v.1 (little endian)</name>
+      <note>Absolute from BOF, magic bytes: MOOF&#255;</note>
+      <pattern>
+        <position>BOF</position>
+        <pronom_pattern>4D4F4F46FF0A0D0A</pronom_pattern>
+        <regex>(?s)\AMOOF\xff\n\r\n</regex>
+      </pattern>
+    </signature>
+    <details>
+      <dc:description>A MOOF file utilizes a chunk-based binary format, ensuring future-proof compatibility with older software which may not recognize newer data chunks. MOOF serves as the Macintosh equivalent of the WOZ disk image format for floppy disks. The name "MOOF" references Dogcow, a character from Macintosh folklore: https://en.wikipedia.org/wiki/Dogcow</dc:description>
+      <dcterms:available />
+      <dc:creator />
+      <dcterms:publisher />
+      <content_type>Presentation</content_type>
+      <record_metadata>
+        <status>unknown</status>
+        <dc:creator>Brigham Young University / Brigham Young University</dc:creator>
+        <dcterms:created>21 Jul 2025</dcterms:created>
+        <dcterms:modified>21 Jul 2025</dcterms:modified>
+        <dc:description>v.121: new PUID; v.122- corrected identifiers from LOC to wikidata. Submitted by Yale University Library.</dc:description>
+      </record_metadata>
+    </details>
+  </format>
+  <format>
+    <puid>fmt/2062</puid>
+    <name>AV1 Image File Format</name>
+    <version />
+    <alias />
+    <pronom_id>3937</pronom_id>
+    <extension>avif</extension>
+    <signature>
+      <name>AV1 Image File Format</name>
+      <note>Absolute from BOF, offset 4, maximum Offset 4: ftypavif</note>
+      <pattern>
+        <position>BOF</position>
+        <pronom_pattern>6674797061766966</pronom_pattern>
+        <regex>(?s)\A.{4}ftypavif</regex>
+      </pattern>
+    </signature>
+    <details>
+      <dc:description>An open image format based on the AV1 codec in HEIF.</dc:description>
+      <dcterms:available />
+      <dc:creator>Alliance for Open Media / Alliance for Open Media</dc:creator>
+      <dcterms:publisher>Alliance for Open Media</dcterms:publisher>
+      <content_type>Image (Raster)</content_type>
+      <record_metadata>
+        <status>unknown</status>
+        <dc:creator>The Church of Jesus Christ of Latter-Day Saints / The Church of Jesus Christ of Latter-Day Saints</dc:creator>
+        <dcterms:created>21 Jul 2025</dcterms:created>
+        <dcterms:modified>21 Jul 2025</dcterms:modified>
+        <dc:description>v.121: new PUID.</dc:description>
+      </record_metadata>
+    </details>
+  </format>
+  <format>
+    <puid>fmt/2063</puid>
+    <name>DaVinci Resolve Timeline File</name>
+    <version>9+</version>
+    <alias />
+    <pronom_id>3938</pronom_id>
+    <extension>drt</extension>
+    <details>
+      <dc:description>Files produced by the DaVinci Resolve software, which is used for video editing, colour correction and grading, visual effects and post production audio. Since version 9 the files have had the extension .drt. Timeline files are project files which contain only the timeline and its associated media, rather than the entire project. The software was developed by da Vinci Systems in 2004 and then purchased by BlackMagic Design in 2009.</dc:description>
+      <dcterms:available />
+      <dc:creator />
+      <dcterms:publisher />
+      <content_type>Aggregate</content_type>
+      <record_metadata>
+        <status>unknown</status>
+        <dc:creator>Brigham Young University / Brigham Young University</dc:creator>
+        <dcterms:created>21 Jul 2025</dcterms:created>
+        <dcterms:modified>21 Jul 2025</dcterms:modified>
+        <dc:description>v.121: new PUID.
+This format can be identified via a container signature in DROID version 6 or later.</dc:description>
+      </record_metadata>
+    </details>
+  </format>
+  <format>
+    <puid>fmt/2064</puid>
+    <name>DaVinci Resolve Project File</name>
+    <version>9+</version>
+    <alias />
+    <pronom_id>3939</pronom_id>
+    <extension>drp</extension>
+    <has_priority_over>fmt/2063</has_priority_over>
+    <details>
+      <dc:description>Files produced by the DaVinci Resolve software which is used for video editing, colour correction and grading, visual effects and post production audio. Since version 9 the files have had the extension .drp, but before that they often used .resolve.zip. The files do not contain the actual media, only project details. They are ZIP containers and the software was developed by da Vinci Systems in 2004 and then purchased by BlackMagic Design in 2009.</dc:description>
+      <dcterms:available />
+      <dc:creator />
+      <dcterms:publisher />
+      <content_type>Aggregate</content_type>
+      <record_metadata>
+        <status>unknown</status>
+        <dc:creator>Brigham Young University / Brigham Young University</dc:creator>
+        <dcterms:created>21 Jul 2025</dcterms:created>
+        <dcterms:modified>21 Jul 2025</dcterms:modified>
+        <dc:description>v.121: new PUID.
+This format can be identified via a container signature in DROID version 6 or later.</dc:description>
+      </record_metadata>
+    </details>
+  </format>
+  <format>
+    <puid>fmt/2065</puid>
+    <mime>application/toml</mime>
+    <name>TOML</name>
+    <version />
+    <alias>TOML (Tom's Obvious Minimal Language), TOML (Tom's Own Markup Language)</alias>
+    <pronom_id>3940</pronom_id>
+    <extension>toml</extension>
+    <details>
+      <dc:description>TOML (Tom&#8217;s Obvious Minimal Language) was created by Tom Preston-Werner, in the github repository tom-lang. TOML is a minimal configuration file format that is designed with clear semantics so as to be easily human-readable. TOML is designed to map unambiguously to a hash table (synonymous with a dictionary or map) and so can be parsed and understood by a number of programming languages. Data structures represented by TOML can often be mapped into other languages as required such as JSON or YAML.</dc:description>
+      <dcterms:available />
+      <dc:creator />
+      <dcterms:publisher />
+      <content_type>Text (Mark-up)</content_type>
+      <record_metadata>
+        <status>unknown</status>
+        <dc:creator>Ross Spencer / Ravensburger AG</dc:creator>
+        <dcterms:created>21 Jul 2025</dcterms:created>
+        <dcterms:modified>24 Nov 2025</dcterms:modified>
+        <dc:description>v.121: new PUID submitted by Preservica and Ross Spencer; v.122- updated description, notes, alternative names and MIME type submitted by Ross Spencer.</dc:description>
+      </record_metadata>
+    </details>
+  </format>
+  <format>
+    <puid>fmt/2066</puid>
+    <name>Rust Source File</name>
+    <version />
+    <alias />
+    <pronom_id>3941</pronom_id>
+    <extension>rs</extension>
+    <details>
+      <dc:description>.rs files are typically source code files for the rust programming language.</dc:description>
+      <dcterms:available />
+      <dc:creator />
+      <dcterms:publisher />
+      <content_type>Text (Structured)</content_type>
+      <record_metadata>
+        <status>unknown</status>
+        <dc:creator>Preservica / Preservica</dc:creator>
+        <dcterms:created>21 Jul 2025</dcterms:created>
+        <dcterms:modified>21 Jul 2025</dcterms:modified>
+        <dc:description>v.121: new PUID.</dc:description>
+      </record_metadata>
+    </details>
+  </format>
+  <format>
+    <puid>fmt/2067</puid>
+    <name>XYZ Coordinate Data</name>
+    <version />
+    <alias />
+    <pronom_id>3942</pronom_id>
+    <extension>xyz</extension>
+    <details>
+      <dc:description>Files with the .xyz extension are most commonly ASCII (plain text) files containing spatial data expressed using the Cartesian coordinate system (x, y, and z). As they are usually simple lists of coordinates it is not possible to create a viable and consistently accurate PRONOM identification signature for these files at this time. There may be formats that use the .xyz extension that can be reliably identified and these should get their own PRONOM entries where appropriate.</dc:description>
+      <dcterms:available />
+      <dc:creator />
+      <dcterms:publisher />
+      <content_type>Dataset</content_type>
+      <record_metadata>
+        <status>unknown</status>
+        <dc:creator>Preservica / Preservica</dc:creator>
+        <dcterms:created>21 Jul 2025</dcterms:created>
+        <dcterms:modified>21 Jul 2025</dcterms:modified>
+        <dc:description>v.121: new PUID.</dc:description>
+      </record_metadata>
+    </details>
+  </format>
+  <format>
+    <puid>fmt/2068</puid>
+    <name>Macintosh File System</name>
+    <version />
+    <alias />
+    <pronom_id>3943</pronom_id>
+    <extension>mfs</extension>
+    <extension>IMG</extension>
+    <extension>DSK</extension>
+    <signature>
+      <name>Macintosh File System</name>
+      <note>BOF&lt; offset 1024, magic bytes: &#210;&#215;{12}..{6}[!&amp;.].</note>
+      <pattern>
+        <position>BOF</position>
+        <pronom_pattern>D2D7{12}0004{6}[!&amp;01]00</pronom_pattern>
+        <regex>(?s)\A.{1024}\xd2\xd7.{12}\x00\x04.{6}(?!(\x01|\x03|\x05|\x07|\x09|\x0b|\x0d|\x0f|\x11|\x13|\x15|\x17|\x19|\x1b|\x1d|\x1f|\x21|\x23|\x25|\x27|\x29|\x2b|\x2d|\x2f|\x31|\x33|\x35|\x37|\x39|\x3b|\x3d|\x3f|\x41|\x43|\x45|\x47|\x49|\x4b|\x4d|\x4f|\x51|\x53|\x55|\x57|\x59|\x5b|\x5d|\x5f|\x61|\x63|\x65|\x67|\x69|\x6b|\x6d|\x6f|\x71|\x73|\x75|\x77|\x79|\x7b|\x7d|\x7f|\x81|\x83|\x85|\x87|\x89|\x8b|\x8d|\x8f|\x91|\x93|\x95|\x97|\x99|\x9b|\x9d|\x9f|\xa1|\xa3|\xa5|\xa7|\xa9|\xab|\xad|\xaf|\xb1|\xb3|\xb5|\xb7|\xb9|\xbb|\xbd|\xbf|\xc1|\xc3|\xc5|\xc7|\xc9|\xcb|\xcd|\xcf|\xd1|\xd3|\xd5|\xd7|\xd9|\xdb|\xdd|\xdf|\xe1|\xe3|\xe5|\xe7|\xe9|\xeb|\xed|\xef|\xf1|\xf3|\xf5|\xf7|\xf9|\xfb|\xfd|\xff))\x00</regex>
+      </pattern>
+    </signature>
+    <details>
+      <dc:description>Macintosh File System is the original Macintosh file system created for use on single sided 400K floppy disks and MacOS system 6 and before. It was released in January 1984 and effectively discontinued in September 1985 with the introduction of Hierarchical File System (fmt/1105).</dc:description>
+      <dcterms:available />
+      <dc:creator>Apple Computer, Inc.</dc:creator>
+      <dcterms:publisher>Apple Computer, Inc.</dcterms:publisher>
+      <content_type>Aggregate</content_type>
+      <record_metadata>
+        <status>unknown</status>
+        <dc:creator>Brigham Young University / Brigham Young University</dc:creator>
+        <dcterms:created>21 Jul 2025</dcterms:created>
+        <dcterms:modified>21 Jul 2025</dcterms:modified>
+        <dc:description>v.121: new PUID.</dc:description>
+      </record_metadata>
+    </details>
+  </format>
+  <format>
+    <puid>fmt/2069</puid>
+    <name>Draco</name>
+    <version>2</version>
+    <alias />
+    <pronom_id>3944</pronom_id>
+    <extension>drc</extension>
+    <extension>bin</extension>
+    <signature>
+      <name>Draco v.2</name>
+      <note>BOF; Offset:0; Magic Bytes: 'DRACO' followed by 0x02</note>
+      <pattern>
+        <position>BOF</position>
+        <pronom_pattern>445241434F02</pronom_pattern>
+        <regex>(?s)\ADRACO\x02</regex>
+      </pattern>
+    </signature>
+    <details>
+      <dc:description>Draco is a library for compressing and decompressing 3D geometric meshes and point clouds. It is intended to provide efficient storage and transmission of 3D graphics.</dc:description>
+      <dcterms:available />
+      <dc:creator>Google</dc:creator>
+      <dcterms:publisher>Google</dcterms:publisher>
+      <content_type>Model</content_type>
+      <record_metadata>
+        <status>unknown</status>
+        <dc:creator>Preservica / Preservica</dc:creator>
+        <dcterms:created>23 Nov 2025</dcterms:created>
+        <dcterms:modified>23 Nov 2025</dcterms:modified>
+        <dc:description />
+      </record_metadata>
+    </details>
+  </format>
+  <format>
+    <puid>fmt/2070</puid>
+    <name>Autodesk ReCap RCS Indexed Point Cloud Data</name>
+    <version />
+    <alias />
+    <pronom_id>3945</pronom_id>
+    <extension>rcs</extension>
+    <signature>
+      <name>Autodesk ReCap RCS Indexed Point Cloud Data</name>
+      <note>BOF; Offset:0; Magic Bytes: 'ADOCT'</note>
+      <pattern>
+        <position>BOF</position>
+        <pronom_pattern>41444F4354</pronom_pattern>
+        <regex>(?s)\AADOCT</regex>
+      </pattern>
+    </signature>
+    <details>
+      <dc:description>An RCS file are indexed point cloud scan files used by Autodesk ReCap</dc:description>
+      <dcterms:available />
+      <dc:creator>Autodesk</dc:creator>
+      <dcterms:publisher>Autodesk</dcterms:publisher>
+      <content_type>GIS, Dataset, Model</content_type>
+      <record_metadata>
+        <status>unknown</status>
+        <dc:creator>Preservica / Preservica</dc:creator>
+        <dcterms:created>23 Nov 2025</dcterms:created>
+        <dcterms:modified>23 Nov 2025</dcterms:modified>
+        <dc:description />
+      </record_metadata>
+    </details>
+  </format>
+  <format>
+    <puid>fmt/2071</puid>
+    <name>SuperCard Pro Image File</name>
+    <version />
+    <alias />
+    <pronom_id>3946</pronom_id>
+    <extension>scp</extension>
+    <signature>
+      <name>SuperCard Image Pro</name>
+      <note>BOF; Offset: 0; Magic Bytes: 'SCP' and EOF; Offset: 0; Magic Bytes: 'FPCS'</note>
+      <pattern>
+        <position>BOF</position>
+        <pronom_pattern>534350</pronom_pattern>
+        <regex>(?s)\ASCP</regex>
+      </pattern>
+      <pattern>
+        <position>EOF</position>
+        <pronom_pattern>46504353</pronom_pattern>
+        <regex>(?s)FPCS\Z</regex>
+      </pattern>
+    </signature>
+    <details>
+      <dc:description>SuperCard Pro Image File is a RAW flux format for the SuperCard Pro software and is used by many flux boards such as the Greaseweazle. It handles images for any type of floppy disk as well as tape drives and hard drives that are MFM, RLL or GCR encoded.</dc:description>
+      <dcterms:available />
+      <dc:creator />
+      <dcterms:publisher />
+      <content_type />
+      <record_metadata>
+        <status>unknown</status>
+        <dc:creator>Brigham Young University / Brigham Young University</dc:creator>
+        <dcterms:created>24 Nov 2025</dcterms:created>
+        <dcterms:modified>24 Nov 2025</dcterms:modified>
+        <dc:description />
+      </record_metadata>
+    </details>
+  </format>
+  <format>
+    <puid>fmt/2072</puid>
+    <name>Weaving Information File (WIF)</name>
+    <version>1.1</version>
+    <alias />
+    <pronom_id>3947</pronom_id>
+    <extension>wif</extension>
+    <signature>
+      <name>Weaving Information File</name>
+      <note>BOF; Offset: 0; Magic Bytes '[WIF]' followed by carriage return 0x0D0A followed by 'Version=1.1'</note>
+      <pattern>
+        <position>BOF</position>
+        <pronom_pattern>5B5749465D0D0A56657273696F6E3D312E31</pronom_pattern>
+        <regex>(?s)\A\[WIF\]\r\nVersion=1\.1</regex>
+      </pattern>
+    </signature>
+    <details>
+      <dc:description>The Weaving Information File (WIF) format is a weaving information interchange format that is supported by most major weaving software packages. WIF allows users to share weaving designs between different weaving software programs and is human readable with a text editor. It is based on the Microsoft Windows .ini file format. WIF was collaboratively developed by a group of programmers of major software packages available to handweavers, including Patternland Weave Simulator, Fiberworks PCW, Swiftweave, WeaveIt, WeaveMake, Proweave and WeavePoint.</dc:description>
+      <dcterms:available />
+      <dc:creator />
+      <dcterms:publisher />
+      <content_type>Text (Structured)</content_type>
+      <record_metadata>
+        <status>unknown</status>
+        <dc:creator>The National Archives and Records Administration / The National Archives and Records Administration</dc:creator>
+        <dcterms:created>24 Nov 2025</dcterms:created>
+        <dcterms:modified>24 Nov 2025</dcterms:modified>
+        <dc:description />
+      </record_metadata>
+    </details>
+  </format>
+  <format>
+    <puid>fmt/2073</puid>
+    <name>Tilt Brush</name>
+    <version />
+    <alias />
+    <pronom_id>3948</pronom_id>
+    <extension>tilt</extension>
+    <signature>
+      <name>Tilt Brush</name>
+      <note>BOF; Offset: 0; Magic Bytes: 'tilT'</note>
+      <pattern>
+        <position>BOF</position>
+        <pronom_pattern>74696C54</pronom_pattern>
+        <regex>(?s)\AtilT</regex>
+      </pattern>
+    </signature>
+    <details>
+      <dc:description>Tilt Brush files are outputs from the Open Brush software and Google Tilt Brush application (now discontinued), which allows the user to create digital paintings in virtual reality rendering a 3D image. The format has a prepended header and the format's zipped contents contain information about brush strokes, an array of models that can be imported into the sketch and a metadata.json file. This format is a container format currently identified with a binary signature.</dc:description>
+      <dcterms:available />
+      <dc:creator />
+      <dcterms:publisher />
+      <content_type>Model</content_type>
+      <record_metadata>
+        <status>unknown</status>
+        <dc:creator>Digital Research Alliance of Canada - FRDR / Alliance de recherche num&#233;rique du Canada &#8211; DFDR</dc:creator>
+        <dcterms:created>27 Nov 2025</dcterms:created>
+        <dcterms:modified>27 Nov 2025</dcterms:modified>
+        <dc:description />
+      </record_metadata>
+    </details>
+  </format>
+  <format>
+    <puid>fmt/2074</puid>
+    <name>MRtrix File Format</name>
+    <version />
+    <alias />
+    <pronom_id>3949</pronom_id>
+    <extension>mif</extension>
+    <signature>
+      <name>MRtrix</name>
+      <note>BOF; Offset:0; Magic Bytes: 'mrtrix image'</note>
+      <pattern>
+        <position>BOF</position>
+        <pronom_pattern>6D727472697820696D616765</pronom_pattern>
+        <regex>(?s)\Amrtrix image</regex>
+      </pattern>
+    </signature>
+    <details>
+      <dc:description>MRtrix or MIF files are associated with the MRtrix software which provides a variety of tools for diffusion MRI analysis. MIF formats are capable of handling extra data in the text header section, which stores data in binary format.</dc:description>
+      <dcterms:available />
+      <dc:creator />
+      <dcterms:publisher />
+      <content_type>Dataset</content_type>
+      <record_metadata>
+        <status>unknown</status>
+        <dc:creator>Digital Research Alliance of Canada - FRDR / Alliance de recherche num&#233;rique du Canada &#8211; DFDR</dc:creator>
+        <dcterms:created>27 Nov 2025</dcterms:created>
+        <dcterms:modified>27 Nov 2025</dcterms:modified>
+        <dc:description />
+      </record_metadata>
+    </details>
+  </format>
+  <format>
+    <puid>fmt/2075</puid>
+    <mime>application/x-ace-compressed</mime>
+    <name>ACE</name>
+    <version>1</version>
+    <alias />
+    <pronom_id>3950</pronom_id>
+    <extension>ace</extension>
+    <signature>
+      <name>ACE Archive 1</name>
+      <note>BOF; Offset: 7; Magic Bytes: '**ACE**' followed by byte of either 0x0A, 0x0B, 0x0C or 0x0D and then either 0x0A, 0x0B, 0x0C, 0x0D or 0x14</note>
+      <pattern>
+        <position>BOF</position>
+        <pronom_pattern>2A2A4143452A2A(0A|0B|0C|0D)(0A|0B|0C|0D|14)</pronom_pattern>
+        <regex>(?s)\A.{7}\*\*ACE\*\*(?:\n|\x0b|\x0c|\r)(?:\n|\x0b|\x0c|\r|\x14)</regex>
+      </pattern>
+    </signature>
+    <details>
+      <dc:description>ACE is a compressed archive format, originally developed by Marcel Lemke and later by e-merge GmbH. Some relevant software includes Ace (for DOS, OS/2 and Windows console, WinAce, Active ACE and ACE Compression.</dc:description>
+      <dcterms:available />
+      <dc:creator />
+      <dcterms:publisher />
+      <content_type>Aggregate</content_type>
+      <record_metadata>
+        <status>unknown</status>
+        <dc:creator>Brigham Young University / Brigham Young University</dc:creator>
+        <dcterms:created>27 Nov 2025</dcterms:created>
+        <dcterms:modified>27 Nov 2025</dcterms:modified>
+        <dc:description />
+      </record_metadata>
+    </details>
+  </format>
+  <format>
+    <puid>fmt/2076</puid>
+    <mime>application/x-ace-compressed</mime>
+    <name>ACE</name>
+    <version>2</version>
+    <alias />
+    <pronom_id>3951</pronom_id>
+    <extension>ace</extension>
+    <signature>
+      <name>ACE Archive 2</name>
+      <note>BOF; Offset: 7; Magic Bytes: '**ACE**' followed by byte sequence of 0x1414</note>
+      <pattern>
+        <position>BOF</position>
+        <pronom_pattern>2A2A4143452A2A1414</pronom_pattern>
+        <regex>(?s)\A.{7}\*\*ACE\*\*\x14\x14</regex>
+      </pattern>
+    </signature>
+    <details>
+      <dc:description>ACE is a compressed archive format, originally developed by Marcel Lemke and later by e-merge GmbH. Some relevant software includes Ace (for DOS, OS/2 and Windows console, WinAce, Active ACE and ACE Compression. Version 2 of ACE introduced new compression schemes that are not supported by all ACE compression software.</dc:description>
+      <dcterms:available />
+      <dc:creator />
+      <dcterms:publisher />
+      <content_type>Aggregate</content_type>
+      <record_metadata>
+        <status>unknown</status>
+        <dc:creator>Brigham Young University / Brigham Young University</dc:creator>
+        <dcterms:created>27 Nov 2025</dcterms:created>
+        <dcterms:modified>27 Nov 2025</dcterms:modified>
+        <dc:description />
+      </record_metadata>
+    </details>
+  </format>
+  <format>
+    <puid>fmt/2077</puid>
+    <name>Common Ground Digital Paper</name>
+    <version>1</version>
+    <alias />
+    <pronom_id>3952</pronom_id>
+    <extension>dp</extension>
+    <signature>
+      <name>Common Ground Digital Paper 1</name>
+      <note>BOF; Offset: 8; Magic Bytes: 'CGDC'</note>
+      <pattern>
+        <position>BOF</position>
+        <pronom_pattern>43474443</pronom_pattern>
+        <regex>(?s)\A.{8}CGDC</regex>
+      </pattern>
+    </signature>
+    <details>
+      <dc:description>Common Ground  Digital Paper files are generated from Common Ground from No Hands Software, which allows any Windows or Mac program to create a document that can be viewed or printed by users even if they don't have the program that was used to create the document in the first instance. Common Grounds was used to create portable, self-contained documentation applications called "Digital Paper"</dc:description>
+      <dcterms:available />
+      <dc:creator />
+      <dcterms:publisher />
+      <content_type>Presentation</content_type>
+      <record_metadata>
+        <status>unknown</status>
+        <dc:creator>Brigham Young University / Brigham Young University</dc:creator>
+        <dcterms:created>27 Nov 2025</dcterms:created>
+        <dcterms:modified>27 Nov 2025</dcterms:modified>
+        <dc:description />
+      </record_metadata>
+    </details>
+  </format>
+  <format>
+    <puid>fmt/2078</puid>
+    <name>Common Ground Digital Paper</name>
+    <version>3</version>
+    <alias />
+    <pronom_id>3953</pronom_id>
+    <extension>dp</extension>
+    <signature>
+      <name>Common Ground Digital Paper 3</name>
+      <note>BOF; Offset: 8; Magic Bytes: 'DPL2'</note>
+      <pattern>
+        <position>BOF</position>
+        <pronom_pattern>44504C32</pronom_pattern>
+        <regex>(?s)\A.{8}DPL2</regex>
+      </pattern>
+    </signature>
+    <details>
+      <dc:description>Common Ground  Digital Paper files are generated from Common Ground from No Hands Software, which allows any Windows or Mac program to create a document that can be viewed or printed by users even if they don't have the program that was used to create the document in the first instance. Common Grounds was used to create portable, self-contained documentation applications called "Digital Paper"</dc:description>
+      <dcterms:available />
+      <dc:creator />
+      <dcterms:publisher />
+      <content_type>Presentation</content_type>
+      <record_metadata>
+        <status>unknown</status>
+        <dc:creator>Brigham Young University / Brigham Young University</dc:creator>
+        <dcterms:created>27 Nov 2025</dcterms:created>
+        <dcterms:modified>27 Nov 2025</dcterms:modified>
+        <dc:description />
+      </record_metadata>
+    </details>
+  </format>
+  <format>
+    <puid>fmt/2079</puid>
+    <name>Common Ground Digital Paper</name>
+    <version>4</version>
+    <alias />
+    <pronom_id>3954</pronom_id>
+    <extension>dp</extension>
+    <signature>
+      <name>Common Ground Digital Paper 4</name>
+      <note>BOF; Offset: 8; Magic Bytes: 'DPL3'</note>
+      <pattern>
+        <position>BOF</position>
+        <pronom_pattern>44504C33</pronom_pattern>
+        <regex>(?s)\A.{8}DPL3</regex>
+      </pattern>
+    </signature>
+    <details>
+      <dc:description>Common Ground  Digital Paper files are generated from Common Ground from No Hands Software, which allows any Windows or Mac program to create a document that can be viewed or printed by users even if they don't have the program that was used to create the document in the first instance. Common Grounds was used to create portable, self-contained documentation applications called "Digital Paper"</dc:description>
+      <dcterms:available />
+      <dc:creator />
+      <dcterms:publisher />
+      <content_type>Presentation</content_type>
+      <record_metadata>
+        <status>unknown</status>
+        <dc:creator>Brigham Young University / Brigham Young University</dc:creator>
+        <dcterms:created>27 Nov 2025</dcterms:created>
+        <dcterms:modified>27 Nov 2025</dcterms:modified>
+        <dc:description />
+      </record_metadata>
+    </details>
+  </format>
+  <format>
+    <puid>fmt/2080</puid>
+    <name>xdomea</name>
+    <version>3.1.0</version>
+    <alias />
+    <pronom_id>3955</pronom_id>
+    <extension>xml</extension>
+    <has_priority_over>fmt/101</has_priority_over>
+    <signature>
+      <name>xdomea v.3.1.0</name>
+      <note>XML declaration &lt;?xml version="1.0" (alternatively with single quotes), followed by up to 320 arbitrary bytes (rest of XML declaration + possible whitespace, comments etc.).
+Xdomea namespace declaration xmlns:xdomea="urn:xoev-de:xdomea:schema:3.1.0" (alternatively with single quotes).</note>
+      <pattern>
+        <position>BOF</position>
+        <pronom_pattern>3C3F786D6C2076657273696F6E3D(22|27)312E30(22|27){0-320}786D6C6E733A78646F6D65613D(22|27)75726E3A786F65762D64653A78646F6D65613A736368656D613A332E312E30(22|27)</pronom_pattern>
+        <regex>(?s)\A\x3c\?xml version=(?:"|')1\.0(?:"|').{0,320}xmlns:xdomea=(?:"|')urn:xoev-de:xdomea:schema:3\.1\.0(?:"|')</regex>
+      </pattern>
+    </signature>
+    <details>
+      <dc:description>xdomea is an XML interface for the exchange of documents, cases, and records, typically used by digital record management systems in Germany.</dc:description>
+      <dcterms:available />
+      <dc:creator />
+      <dcterms:publisher />
+      <content_type>Text (Mark-up)</content_type>
+      <record_metadata>
+        <status>unknown</status>
+        <dc:creator>Landesarchiv Nordrhein-Westfalen / Landesarchiv Nordrhein-Westfalen</dc:creator>
+        <dcterms:created>02 Dec 2025</dcterms:created>
+        <dcterms:modified>02 Dec 2025</dcterms:modified>
+        <dc:description>v.122: new signature. Submitted by Landesarchiv Nordrhein-Westfalen.</dc:description>
+      </record_metadata>
+    </details>
+  </format>
+  <format>
+    <puid>fmt/2081</puid>
+    <name>xdomea</name>
+    <version>4.0.0</version>
+    <alias />
+    <pronom_id>3956</pronom_id>
+    <extension>xml</extension>
+    <has_priority_over>fmt/101</has_priority_over>
+    <signature>
+      <name>xdomea 4.0.0</name>
+      <note>XML declaration &lt;?xml version="1.0" (alternatively with single quotes), followed by up to 320 arbitrary bytes (rest of XML declaration + possible whitespace, comments etc.). xdomea namespace declaration xmlns:xdomea="urn:xoev-de:xdomea:schema:4.0.0" (alternatively with single quotes).</note>
+      <pattern>
+        <position>BOF</position>
+        <pronom_pattern>3C3F786D6C2076657273696F6E3D(22|27)312E30(22|27){0-320}786D6C6E733A78646F6D65613D(22|27)75726E3A786F65762D64653A78646F6D65613A736368656D613A342E302E30(22|27)</pronom_pattern>
+        <regex>(?s)\A\x3c\?xml version=(?:"|')1\.0(?:"|').{0,320}xmlns:xdomea=(?:"|')urn:xoev-de:xdomea:schema:4\.0\.0(?:"|')</regex>
+      </pattern>
+    </signature>
+    <details>
+      <dc:description>xdomea is an XML interface for the exchange of documents, cases, and records, typically used by digital record management systems in Germany.</dc:description>
+      <dcterms:available />
+      <dc:creator />
+      <dcterms:publisher />
+      <content_type>Text (Mark-up)</content_type>
+      <record_metadata>
+        <status>unknown</status>
+        <dc:creator>Landesarchiv Nordrhein-Westfalen / Landesarchiv Nordrhein-Westfalen</dc:creator>
+        <dcterms:created>02 Dec 2025</dcterms:created>
+        <dcterms:modified>09 Jun 2026</dcterms:modified>
+        <dc:description>v.122: new signature. Submitted by Landesarchiv Nordrhein-Westfalen; v.123: Priority over field changed from fmt/102 Extensible Hypertext Markup Language 1.0 to fmt/101 Extensible markup Language 1.0. Submitted by Preservica.</dc:description>
+      </record_metadata>
+    </details>
+  </format>
+  <format>
+    <puid>fmt/2082</puid>
+    <name>3DM 6</name>
+    <version>6</version>
+    <alias>openNURBS (6), Rhino (6)</alias>
+    <pronom_id>3957</pronom_id>
+    <extension>3dm</extension>
+    <signature>
+      <name>3DM 6</name>
+      <note>BOF, offset 0, maximum offset 0: BOF: '3D Geometry File Format       6'</note>
+      <pattern>
+        <position>BOF</position>
+        <pronom_pattern>33442047656F6D657472792046696C6520466F726D61742020202020202036</pronom_pattern>
+        <regex>(?s)\A3D Geometry File Format       6</regex>
+      </pattern>
+    </signature>
+    <details>
+      <dc:description>The 3DM (openNURBS) format is a 3D model representation based on non-uniform rational B-Splines (NURBS). The file format is defined by an open source C++ toolkit that reads and writes openNURBS models.</dc:description>
+      <dcterms:available />
+      <dc:creator />
+      <dcterms:publisher />
+      <content_type>Model</content_type>
+      <record_metadata>
+        <status>unknown</status>
+        <dc:creator>Preservica / Preservica</dc:creator>
+        <dcterms:created>02 Dec 2025</dcterms:created>
+        <dcterms:modified>02 Dec 2025</dcterms:modified>
+        <dc:description>v.122: new signature. Submitted by Preservica.</dc:description>
+      </record_metadata>
+    </details>
+  </format>
+  <format>
+    <puid>fmt/2083</puid>
+    <name>3DM 7</name>
+    <version>7</version>
+    <alias>openNURBS (7), Rhino (7)</alias>
+    <pronom_id>3958</pronom_id>
+    <extension>3dm</extension>
+    <signature>
+      <name>3DM 7</name>
+      <note>BOF: '3D Geometry File Format       7'</note>
+      <pattern>
+        <position>BOF</position>
+        <pronom_pattern>33442047656F6D657472792046696C6520466F726D61742020202020202037</pronom_pattern>
+        <regex>(?s)\A3D Geometry File Format       7</regex>
+      </pattern>
+    </signature>
+    <details>
+      <dc:description>The 3DM (openNURBS) format is a 3D model representation based on non-uniform rational B-Splines (NURBS). The file format is defined by an open source C++ toolkit that reads and writes openNURBS models.</dc:description>
+      <dcterms:available />
+      <dc:creator />
+      <dcterms:publisher />
+      <content_type>Model</content_type>
+      <record_metadata>
+        <status>unknown</status>
+        <dc:creator>Preservica / Preservica</dc:creator>
+        <dcterms:created>02 Dec 2025</dcterms:created>
+        <dcterms:modified>02 Dec 2025</dcterms:modified>
+        <dc:description>v.122: new signature. Submitted by Preservica.</dc:description>
+      </record_metadata>
+    </details>
+  </format>
+  <format>
+    <puid>fmt/2084</puid>
+    <name>3DM 8</name>
+    <version>8</version>
+    <alias>openNURBS (8), Rhino (8)</alias>
+    <pronom_id>3959</pronom_id>
+    <extension>3dm</extension>
+    <signature>
+      <name>3DM 8</name>
+      <note>BOF: '3D Geometry File Format       8'</note>
+      <pattern>
+        <position>BOF</position>
+        <pronom_pattern>33442047656F6D657472792046696C6520466F726D61742020202020202038</pronom_pattern>
+        <regex>(?s)\A3D Geometry File Format       8</regex>
+      </pattern>
+    </signature>
+    <details>
+      <dc:description>The 3DM (openNURBS) format is a 3D model representation based on non-uniform rational B-Splines (NURBS). The file format is defined by an open source C++ toolkit that reads and writes openNURBS models.</dc:description>
+      <dcterms:available />
+      <dc:creator />
+      <dcterms:publisher />
+      <content_type>Model</content_type>
+      <record_metadata>
+        <status>unknown</status>
+        <dc:creator>Preservica / Preservica</dc:creator>
+        <dcterms:created>02 Dec 2025</dcterms:created>
+        <dcterms:modified>02 Dec 2025</dcterms:modified>
+        <dc:description>v.122: new signature. Submitted by Preservica.</dc:description>
+      </record_metadata>
+    </details>
+  </format>
+  <format>
+    <puid>fmt/2085</puid>
+    <name>FieldWorks Language Explorer FWData XML</name>
+    <version />
+    <alias />
+    <pronom_id>3960</pronom_id>
+    <extension>fwdata</extension>
+    <has_priority_over>fmt/101</has_priority_over>
+    <signature>
+      <name>FieldWorks Language Explorer FWData XML</name>
+      <note>XML declaration, &#8216;languageproject&#8217; top level tag with version parameter.</note>
+      <pattern>
+        <position>BOF</position>
+        <pronom_pattern>3C3F786D6C2076657273696F6E3D22312E302220656E636F64696E673D227574662D38223F3E(0D|0A|0D0A)3C6C616E677561676570726F6A6563742076657273696F6E3D</pronom_pattern>
+        <regex>(?s)\A\x3c\?xml version="1\.0" encoding="utf-8"\?\x3e(?:\r|\n|\r\n)\x3clanguageproject version=</regex>
+      </pattern>
+    </signature>
+    <details>
+      <dc:description>FWData is a XML data format native to FieldWorks Language Explorer (FLEx), an application for recording and analysing information relating to languages and cultures.</dc:description>
+      <dcterms:available />
+      <dc:creator />
+      <dcterms:publisher />
+      <content_type>Text (Mark-up)</content_type>
+      <record_metadata>
+        <status>unknown</status>
+        <dc:creator>Preservica / Preservica</dc:creator>
+        <dcterms:created>02 Dec 2025</dcterms:created>
+        <dcterms:modified>02 Dec 2025</dcterms:modified>
+        <dc:description>v.122: new signature. Submitted by Preservica, with data provided by the Endangered Language Archives; v.123: priority added over fmt/101 Extensible Markup Language 1.0. Submitted by Preservica.</dc:description>
+      </record_metadata>
+    </details>
+  </format>
+  <format>
+    <puid>fmt/2086</puid>
+    <name>FieldWorks Language Explorer FWBackup</name>
+    <version />
+    <alias />
+    <pronom_id>3963</pronom_id>
+    <extension>fwbackup</extension>
+    <details>
+      <dc:description>FWBackup is a backup file native to FieldWorks Language Explorer (FLEx), an application for recording and analysing information relating to languages and cultures. The FWBackup file is a zip which stores the complete project including configuration, FWData XML, and any multimedia assets associated with the project.</dc:description>
+      <dcterms:available />
+      <dc:creator />
+      <dcterms:publisher />
+      <content_type>Aggregate</content_type>
+      <record_metadata>
+        <status>unknown</status>
+        <dc:creator>Preservica / Preservica</dc:creator>
+        <dcterms:created>02 Dec 2025</dcterms:created>
+        <dcterms:modified>02 Dec 2025</dcterms:modified>
+        <dc:description>v.122: new signature. Submitted by Preservica.
+This format can be identified via a container signature in DROID version 6 or later.</dc:description>
+      </record_metadata>
+    </details>
+  </format>
+  <format>
+    <puid>fmt/2087</puid>
+    <name>Final Cut Pro Project File</name>
+    <version />
+    <alias />
+    <pronom_id>3964</pronom_id>
+    <extension>fcp</extension>
+    <signature>
+      <name>Final Cut Pro Project File</name>
+      <note>Absolute from beginning of file, magic bytes: &#162;KeyG</note>
+      <pattern>
+        <position>BOF</position>
+        <pronom_pattern>A24B657947</pronom_pattern>
+        <regex>(?s)\A\xa2KeyG</regex>
+      </pattern>
+    </signature>
+    <details>
+      <dc:description>Video editing project files, created with Apple Final Cut Pro or Final Cut Express. They include video and audio clips organized into tracks, and possibly visual effects, transitions, text overlays.</dc:description>
+      <dcterms:available />
+      <dc:creator>Apple Computer, Inc.</dc:creator>
+      <dcterms:publisher>Apple Computer, Inc.</dcterms:publisher>
+      <content_type>Video</content_type>
+      <record_metadata>
+        <status>unknown</status>
+        <dc:creator>Marquette University / Marquette University</dc:creator>
+        <dcterms:created>03 Dec 2025</dcterms:created>
+        <dcterms:modified>03 Dec 2025</dcterms:modified>
+        <dc:description />
+      </record_metadata>
+    </details>
+  </format>
+  <format>
+    <puid>fmt/2088</puid>
+    <name>Final Cut Pro XML Interchange Format</name>
+    <version />
+    <alias />
+    <pronom_id>3965</pronom_id>
+    <extension>xml</extension>
+    <has_priority_over>fmt/101</has_priority_over>
+    <signature>
+      <name>Final Cut Pro XML Interchange Format</name>
+      <note>Absolute from beginning of file, magic bytes: &lt;?xml version=("|')1.0("|'){0-128}xmeml</note>
+      <pattern>
+        <position>BOF</position>
+        <pronom_pattern>3C3F786D6C2076657273696F6E3D(22|27)312E30(22|27){0-128}786D656D6C</pronom_pattern>
+        <regex>(?s)\A\x3c\?xml version=(?:"|')1\.0(?:"|').{0,128}xmeml</regex>
+      </pattern>
+    </signature>
+    <details>
+      <dc:description>fcpxml is a specialised format used in Apple's Final Cut Pro which uses xml elements to describe the data exchanged between Final Cut Pro and third-party applications and tools.</dc:description>
+      <dcterms:available />
+      <dc:creator>Apple Computer, Inc.</dc:creator>
+      <dcterms:publisher>Apple Computer, Inc.</dcterms:publisher>
+      <content_type>Text (Mark-up)</content_type>
+      <record_metadata>
+        <status>unknown</status>
+        <dc:creator>Brigham Young University / Brigham Young University</dc:creator>
+        <dcterms:created>04 Dec 2025</dcterms:created>
+        <dcterms:modified>04 Dec 2025</dcterms:modified>
+        <dc:description>v.122: new signature. Submitted by Brigham Young University.</dc:description>
+      </record_metadata>
+    </details>
+  </format>
+  <format>
+    <puid>fmt/2089</puid>
+    <name>FCPXML Interchange Format</name>
+    <version />
+    <alias />
+    <pronom_id>3966</pronom_id>
+    <extension>fcpxml</extension>
+    <has_priority_over>fmt/101</has_priority_over>
+    <signature>
+      <name>FCPXML Interchange Format</name>
+      <note>Absolute from beginning of file, magic bytes: &lt;?xml version=("|')1.0("|'){0-128}fcpxml</note>
+      <pattern>
+        <position>BOF</position>
+        <pronom_pattern>3C3F786D6C2076657273696F6E3D(22|27)312E30(22|27){0-128}666370786D6C</pronom_pattern>
+        <regex>(?s)\A\x3c\?xml version=(?:"|')1\.0(?:"|').{0,128}fcpxml</regex>
+      </pattern>
+    </signature>
+    <details>
+      <dc:description>FCPXML files are XML-based files used by Apple's Final Cut Pro to describe project data, enabling users to transfer projects, projects, and metadata between Final Cut Pro and other compatible applications. They contain information about media, clips, editing decisions, and other project assets.</dc:description>
+      <dcterms:available />
+      <dc:creator>Apple Computer, Inc.</dc:creator>
+      <dcterms:publisher>Apple Computer, Inc.</dcterms:publisher>
+      <content_type>Text (Mark-up)</content_type>
+      <record_metadata>
+        <status>unknown</status>
+        <dc:creator>Brigham Young University / Brigham Young University</dc:creator>
+        <dcterms:created>04 Dec 2025</dcterms:created>
+        <dcterms:modified>04 Dec 2025</dcterms:modified>
+        <dc:description />
+      </record_metadata>
+    </details>
+  </format>
+  <format>
+    <puid>fmt/2090</puid>
+    <name>Kodak DCS RAW Image</name>
+    <version />
+    <alias />
+    <pronom_id>3967</pronom_id>
+    <extension>tif</extension>
+    <extension>tiff</extension>
+    <has_priority_over>fmt/192</has_priority_over>
+    <signature>
+      <name>Kodak DCS RAW Image</name>
+      <note>Absolute from beginning of file, magic bytes: MM.*{60}This image file was created by a Kodak DCS{5}digital camera.</note>
+      <pattern>
+        <position>BOF</position>
+        <pronom_pattern>4D4D002A{60}5468697320696D6167652066696C652077617320637265617465642062792061204B6F64616B20444353{5}6469676974616C2063616D6572612E</pronom_pattern>
+        <regex>(?s)\AMM\x00\*.{60}This image file was created by a Kodak DCS.{5}digital camera\.</regex>
+      </pattern>
+    </signature>
+    <details>
+      <dc:description>A Kodak DCS RAW image is a digital camera raw file from Kodak's Digital Camera System (DCS) series, saved in a proprietary format based on the Tagged Image File Format (TIFF). These files contain uncompressed, unprocessed image data.</dc:description>
+      <dcterms:available />
+      <dc:creator>Kodak / Kodak</dc:creator>
+      <dcterms:publisher>Kodak</dcterms:publisher>
+      <content_type>Image (Raster)</content_type>
+      <record_metadata>
+        <status>unknown</status>
+        <dc:creator>Brigham Young University / Brigham Young University</dc:creator>
+        <dcterms:created>04 Dec 2025</dcterms:created>
+        <dcterms:modified>12 Feb 2026</dcterms:modified>
+        <dc:description>v.122: new signature. Submitted by Brigham Young University;  v. 123: New extension added of .tiff and priority over fmt/192 Kodak Digital Camera Raw Image File. Submitted by Richard Lehane and Brigham Young University.</dc:description>
+      </record_metadata>
+    </details>
+  </format>
+  <format>
+    <puid>fmt/2091</puid>
+    <name>Kodak DCS RAW Image</name>
+    <version>3</version>
+    <alias />
+    <pronom_id>3968</pronom_id>
+    <extension>tif</extension>
+    <extension>tiff</extension>
+    <has_priority_over>fmt/192</has_priority_over>
+    <signature>
+      <name>Kodak DCS RAW Image v.3</name>
+      <note>Absolute from beginning of file, magic bytes: II*.{12}KODAK{11}(DCS|EOSDCS)</note>
+      <pattern>
+        <position>BOF</position>
+        <pronom_pattern>49492A00{12}4B4F44414B{11}(444353|454F53444353)</pronom_pattern>
+        <regex>(?s)\AII\*\x00.{12}KODAK.{11}(?:DCS|EOSDCS)</regex>
+      </pattern>
+    </signature>
+    <details>
+      <dc:description>A Kodak DCS RAW image is a digital camera raw file from Kodak's Digital Camera System (DCS) series, saved in a proprietary format based on the Tagged Image File Format (TIFF). These files contain uncompressed, unprocessed image data.</dc:description>
+      <dcterms:available />
+      <dc:creator>Kodak / Kodak</dc:creator>
+      <dcterms:publisher>Kodak</dcterms:publisher>
+      <content_type>Image (Raster)</content_type>
+      <record_metadata>
+        <status>unknown</status>
+        <dc:creator>Brigham Young University / Brigham Young University</dc:creator>
+        <dcterms:created>04 Dec 2025</dcterms:created>
+        <dcterms:modified>12 Feb 2026</dcterms:modified>
+        <dc:description>v.122: new signature. Submitted by Brigham Young University; v. 123: New extension added of .tiff and priority over fmt/192 Kodak Digital Camera Raw Image File. Submitted by Richard Lehane and Brigham Young University.</dc:description>
+      </record_metadata>
+    </details>
+  </format>
+  <format>
+    <puid>fmt/2092</puid>
+    <mime>application/xml</mime>
+    <name>Canadian Avalanche Association MarkUp Language</name>
+    <version>6.0.3</version>
+    <alias />
+    <pronom_id>3969</pronom_id>
+    <extension>caaml</extension>
+    <signature>
+      <name>Canadian Avalanche Association Markup Language</name>
+      <note>BOF; Offset:38; Magic Bytes: '&lt;caaml:SnowProfile xmlns:caaml="http://caaml.org/Schemas/SnowProfilelACS/v6.0.3"</note>
+      <pattern>
+        <position>BOF</position>
+        <pronom_pattern>3C6361616D6C3A536E6F7750726F66696C6520786D6C6E733A6361616D6C3D22687474703A2F2F6361616D6C2E6F72672F536368656D61732F536E6F7750726F66696C65494143532F76362E302E3322</pronom_pattern>
+        <regex>(?s)\A.{38}\x3ccaaml:SnowProfile xmlns:caaml="http://caaml\.org/Schemas/SnowProfileIACS/v6\.0\.3"</regex>
+      </pattern>
+    </signature>
+    <details>
+      <dc:description>Canadian Avalanche Association Markup Language (CAAML) format represents information that is relevant to avalanche safety operations. It is based on two existing standards: Extensible MarkUp Language and the Geographic Markup Language, and provides the file structure to facilitate the exchange of avalanche related information.</dc:description>
+      <dcterms:available />
+      <dc:creator />
+      <dcterms:publisher />
+      <content_type>Text (Mark-up)</content_type>
+      <record_metadata>
+        <status>unknown</status>
+        <dc:creator>Digital Research Alliance of Canada - FRDR / Alliance de recherche num&#233;rique du Canada &#8211; DFDR</dc:creator>
+        <dcterms:created>09 Jun 2026</dcterms:created>
+        <dcterms:modified>09 Jun 2026</dcterms:modified>
+        <dc:description />
+      </record_metadata>
+    </details>
+  </format>
+  <format>
+    <puid>fmt/2093</puid>
+    <name>ROS Bag Format</name>
+    <version>2.0</version>
+    <alias />
+    <pronom_id>3970</pronom_id>
+    <extension>bag</extension>
+    <signature>
+      <name>ROS Bag v.2</name>
+      <note>BOF; Offset: 0; Magic Bytes: #ROSBAG V2.0</note>
+      <pattern>
+        <position>BOF</position>
+        <pronom_pattern>23524F534241472056322E30</pronom_pattern>
+        <regex>(?s)\A#ROSBAG V2\.0</regex>
+      </pattern>
+    </signature>
+    <details>
+      <dc:description>The ROS (Robotic Operating System) bag format stores timestamped ROS messages for visualization, offline analysis, and playback. The messages describe data values in a structured way to facilitate retrieval. The data is stored in a chunked structure and indexed.</dc:description>
+      <dcterms:available />
+      <dc:creator />
+      <dcterms:publisher />
+      <content_type>Dataset</content_type>
+      <record_metadata>
+        <status>unknown</status>
+        <dc:creator>Digital Research Alliance of Canada - FRDR / Alliance de recherche num&#233;rique du Canada &#8211; DFDR</dc:creator>
+        <dcterms:created>12 Feb 2026</dcterms:created>
+        <dcterms:modified>12 Feb 2026</dcterms:modified>
+        <dc:description />
+      </record_metadata>
+    </details>
+  </format>
+  <format>
+    <puid>fmt/2094</puid>
+    <mime>audio/mp4</mime>
+    <name>M4A Audio</name>
+    <version />
+    <alias />
+    <pronom_id>3971</pronom_id>
+    <extension>m4a</extension>
+    <extension>m4b</extension>
+    <has_priority_over>fmt/199</has_priority_over>
+    <signature>
+      <name>M4A Audio</name>
+      <note>BOF, offset 4: 'ftyp' specifying 'M4A ' as the major brand. Note that not all AAC audio files using the .m4a extension will carry this signature. Files produced by non-Apple toolchains may use a generic major brand such as 'mp42' or 'isom' despite containing equivalent audio content. For now any such files will continue to identify as fmt/199 MPEG-4 Media</note>
+      <pattern>
+        <position>BOF</position>
+        <pronom_pattern>667479704D344120</pronom_pattern>
+        <regex>(?s)\A.{4}ftypM4A </regex>
+      </pattern>
+    </signature>
+    <details>
+      <dc:description>M4A is an audio format based on the MPEG-4 Part 14 file format (ISO/IEC 14496-14), using the lossy AAC (Advanced Audio Coding) codec for audio encoding. It shares the same underlying container structure as MPEG-4 video files, and shares the .m4a file extension with ALAC (Apple Lossless Audio Codec) files, from which it is distinguished by its use of lossy rather than lossless compression. The format was introduced by Apple and is commonly associated with the iTunes ecosystem.</dc:description>
+      <dcterms:available />
+      <dc:creator />
+      <dcterms:publisher />
+      <content_type>Audio</content_type>
+      <record_metadata>
+        <status>unknown</status>
+        <dc:creator>Preservica / Preservica</dc:creator>
+        <dcterms:created>09 Jun 2026</dcterms:created>
+        <dcterms:modified>09 Jun 2026</dcterms:modified>
+        <dc:description />
+      </record_metadata>
+    </details>
+  </format>
+  <format>
+    <puid>fmt/2095</puid>
+    <name>Hasselblad FFF Raw Image</name>
+    <version />
+    <alias />
+    <pronom_id>3972</pronom_id>
+    <extension>fff</extension>
+    <signature>
+      <name>Hasselblad FFF Raw Image</name>
+      <note>BOF; Offset: 0; Magic Bytes: 'MM.*' then within 4-2048 bytes 0x000500040000</note>
+      <pattern>
+        <position>BOF</position>
+        <pronom_pattern>4D4D002A{4-2048}000500040000</pronom_pattern>
+        <regex>(?s)\AMM\x00\*.{4,2048}\x00\x05\x00\x04\x00\x00</regex>
+      </pattern>
+    </signature>
+    <details>
+      <dc:description>Hasselblad FF Raw Image is a proprietary raw image format generated by Hasselblad equipment.</dc:description>
+      <dcterms:available />
+      <dc:creator />
+      <dcterms:publisher />
+      <content_type>Image (Raster)</content_type>
+      <record_metadata>
+        <status>unknown</status>
+        <dc:creator>The Church of Jesus Christ of Latter-Day Saints / The Church of Jesus Christ of Latter-Day Saints</dc:creator>
+        <dcterms:created>09 Jun 2026</dcterms:created>
+        <dcterms:modified>09 Jun 2026</dcterms:modified>
+        <dc:description />
+      </record_metadata>
+    </details>
+  </format>
+  <format>
+    <puid>fmt/2096</puid>
+    <name>GGML Universal File (GGUF)</name>
+    <version>1</version>
+    <alias />
+    <pronom_id>3973</pronom_id>
+    <extension>gguf</extension>
+    <signature>
+      <name>GGUF 1</name>
+      <note>BOF, offset 0: 'GGUF', followed by 4 byte version indicator 0x01000000</note>
+      <pattern>
+        <position>BOF</position>
+        <pronom_pattern>4747554601000000</pronom_pattern>
+        <regex>(?s)\AGGUF\x01\x00\x00\x00</regex>
+      </pattern>
+    </signature>
+    <details>
+      <dc:description>GGUF is a binary file format for storing large language model weights, metadata, and tokeniser data in a single self-contained file, designed for efficient loading and inference on consumer hardware. It was introduced in August 2023 by the llama.cpp project as a successor to earlier formats.</dc:description>
+      <dcterms:available />
+      <dc:creator />
+      <dcterms:publisher />
+      <content_type>Dataset</content_type>
+      <record_metadata>
+        <status>unknown</status>
+        <dc:creator>Preservica / Preservica</dc:creator>
+        <dcterms:created>09 Jun 2026</dcterms:created>
+        <dcterms:modified>09 Jun 2026</dcterms:modified>
+        <dc:description />
+      </record_metadata>
+    </details>
+  </format>
+  <format>
+    <puid>fmt/2097</puid>
+    <name>GGML Universal File (GGUF)</name>
+    <version>2</version>
+    <alias />
+    <pronom_id>3974</pronom_id>
+    <extension>gguf</extension>
+    <signature>
+      <name>GGUF 2</name>
+      <note>BOF, offset 0: 'GGUF', followed by 4 byte version indicator 0x02000000</note>
+      <pattern>
+        <position>BOF</position>
+        <pronom_pattern>4747554602000000</pronom_pattern>
+        <regex>(?s)\AGGUF\x02\x00\x00\x00</regex>
+      </pattern>
+    </signature>
+    <details>
+      <dc:description>GGUF is a binary file format for storing large language model weights, metadata, and tokeniser data in a single self-contained file, designed for efficient loading and inference on consumer hardware. It was introduced in August 2023 by the llama.cpp project as a successor to earlier formats.</dc:description>
+      <dcterms:available />
+      <dc:creator />
+      <dcterms:publisher />
+      <content_type>Dataset</content_type>
+      <record_metadata>
+        <status>unknown</status>
+        <dc:creator>Preservica / Preservica</dc:creator>
+        <dcterms:created>09 Jun 2026</dcterms:created>
+        <dcterms:modified>09 Jun 2026</dcterms:modified>
+        <dc:description />
+      </record_metadata>
+    </details>
+  </format>
+  <format>
+    <puid>fmt/2098</puid>
+    <name>GGML Universal File (GGUF)</name>
+    <version>3</version>
+    <alias />
+    <pronom_id>3975</pronom_id>
+    <extension>gguf</extension>
+    <signature>
+      <name>GGUF 3</name>
+      <note>BOF, offset 0: 'GGUF', followed by 4 byte version indicator 0x03000000</note>
+      <pattern>
+        <position>BOF</position>
+        <pronom_pattern>4747554603000000</pronom_pattern>
+        <regex>(?s)\AGGUF\x03\x00\x00\x00</regex>
+      </pattern>
+    </signature>
+    <details>
+      <dc:description>GGUF is a binary file format for storing large language model weights, metadata, and tokeniser data in a single self-contained file, designed for efficient loading and inference on consumer hardware. It was introduced in August 2023 by the llama.cpp project as a successor to earlier formats.</dc:description>
+      <dcterms:available />
+      <dc:creator />
+      <dcterms:publisher />
+      <content_type>Dataset</content_type>
+      <record_metadata>
+        <status>unknown</status>
+        <dc:creator>Preservica / Preservica</dc:creator>
+        <dcterms:created>09 Jun 2026</dcterms:created>
+        <dcterms:modified>09 Jun 2026</dcterms:modified>
+        <dc:description />
+      </record_metadata>
+    </details>
+  </format>
+  <format>
+    <puid>fmt/2099</puid>
+    <name>iZotope RX Document</name>
+    <version />
+    <alias />
+    <pronom_id>3976</pronom_id>
+    <extension>rxdoc</extension>
+    <signature>
+      <name>iZotope RX Document</name>
+      <note>BOF; Offset: 0; Magic Bytes: 0x22C8C934</note>
+      <pattern>
+        <position>BOF</position>
+        <pronom_pattern>22C8C934</pronom_pattern>
+        <regex>(?s)\A"\xc8\xc94</regex>
+      </pattern>
+    </signature>
+    <details>
+      <dc:description>Project file for iZotope RX audio editing/restoration software. Contains the audio and information about all edits made to the audio file.</dc:description>
+      <dcterms:available />
+      <dc:creator />
+      <dcterms:publisher />
+      <content_type>Text (Structured)</content_type>
+      <record_metadata>
+        <status>unknown</status>
+        <dc:creator>The Church of Jesus Christ of Latter-Day Saints / The Church of Jesus Christ of Latter-Day Saints</dc:creator>
+        <dcterms:created>09 Jun 2026</dcterms:created>
+        <dcterms:modified>09 Jun 2026</dcterms:modified>
+        <dc:description />
+      </record_metadata>
+    </details>
+  </format>
+  <format>
+    <puid>fmt/2100</puid>
+    <name>Visualization Toolkit</name>
+    <version>4.0</version>
+    <alias />
+    <pronom_id>3977</pronom_id>
+    <extension>vtk</extension>
+    <signature>
+      <name>Visualization Toolkit 4</name>
+      <note>BOF; Offset: 0; Magic Bytes: # vtk DataFile Version 4.0</note>
+      <pattern>
+        <position>BOF</position>
+        <pronom_pattern>232076746B204461746146696C652056657273696F6E20342E30</pronom_pattern>
+        <regex>(?s)\A# vtk DataFile Version 4\.0</regex>
+      </pattern>
+    </signature>
+    <details>
+      <dc:description>VTK files are outputs of the Visualization Toolkit, an open source, "Object-Oriented Approach to 3D Graphics" software that supports image processing, modeling, scientific visualization and 3D computer graphics. The Visualization Software and the corresponding vtk file outputs date from 1994. VTK are serial formats and are considered a legacy format.</dc:description>
+      <dcterms:available />
+      <dc:creator />
+      <dcterms:publisher />
+      <content_type>Model</content_type>
+      <record_metadata>
+        <status>unknown</status>
+        <dc:creator>Digital Research Alliance of Canada - FRDR / Alliance de recherche num&#233;rique du Canada &#8211; DFDR</dc:creator>
+        <dcterms:created>09 Jun 2026</dcterms:created>
+        <dcterms:modified>09 Jun 2026</dcterms:modified>
+        <dc:description />
+      </record_metadata>
+    </details>
+  </format>
+  <format>
+    <puid>fmt/2101</puid>
+    <name>ChemStation Gas Chromatography/Mass Spectrum (GC/MS) Data File</name>
+    <version>2</version>
+    <alias />
+    <pronom_id>3978</pronom_id>
+    <extension>ms</extension>
+    <signature>
+      <name>GC/MS Data File 2</name>
+      <note>BOF; Offset: 0; Magic Bytes: version number indicator 0x01320000 followed by Magic Bytes 'GC / MS D(ata File|ATA FILE)'</note>
+      <pattern>
+        <position>BOF</position>
+        <pronom_pattern>01320000114743202F204D532044(4154412046494C|6174612046696C65)</pronom_pattern>
+        <regex>(?s)\A\x012\x00\x00\x11GC / MS D(?:ATA FIL|ata File)</regex>
+      </pattern>
+    </signature>
+    <details>
+      <dc:description>ChemStation Gas Chromatography/Mass Spectrum (GC/MS) Version 2 Data File stores raw GC/MS data collected from Agilent ChemStation instruments. The format stores the data in a proprietary, binary format developed by Agilent Technologies. The files are organized in a folder structure with the suffix &#8220;.D&#8221; and often paired with .sav files to store the instrument tuning information and .res to store analysis results. The first few lines of the file may be in plain text and contain information about the analysis including the timestamp.</dc:description>
+      <dcterms:available />
+      <dc:creator />
+      <dcterms:publisher />
+      <content_type>Dataset</content_type>
+      <record_metadata>
+        <status>unknown</status>
+        <dc:creator>The National Archives and Records Administration / The National Archives and Records Administration</dc:creator>
+        <dcterms:created>09 Jun 2026</dcterms:created>
+        <dcterms:modified>09 Jun 2026</dcterms:modified>
+        <dc:description />
+      </record_metadata>
+    </details>
+  </format>
+  <format>
+    <puid>fmt/2102</puid>
+    <name>BioSemi Data Format</name>
+    <version />
+    <alias />
+    <pronom_id>3979</pronom_id>
+    <extension>bdf</extension>
+    <signature>
+      <name>BioSemi Data Format</name>
+      <note>BOF; Offset: 0; Magic Bytes: '.BIOSEMI'</note>
+      <pattern>
+        <position>BOF</position>
+        <pronom_pattern>FF42494F53454D49</pronom_pattern>
+        <regex>(?s)\A\xffBIOSEMI</regex>
+      </pattern>
+    </signature>
+    <details>
+      <dc:description>BioSemi Data Format is a 24 bit version of the older 16 bit European Data Format. It is used to record biological signals, primarily EEG/EMG readings, and can store multiple data types.</dc:description>
+      <dcterms:available />
+      <dc:creator />
+      <dcterms:publisher />
+      <content_type>Dataset</content_type>
+      <record_metadata>
+        <status>unknown</status>
+        <dc:creator>Digital Research Alliance of Canada - FRDR / Alliance de recherche num&#233;rique du Canada &#8211; DFDR</dc:creator>
+        <dcterms:created>09 Jun 2026</dcterms:created>
+        <dcterms:modified>09 Jun 2026</dcterms:modified>
+        <dc:description />
+      </record_metadata>
+    </details>
+  </format>
+  <format>
+    <puid>fmt/2103</puid>
+    <name>Discus Project</name>
+    <version>2-3</version>
+    <alias />
+    <pronom_id>3980</pronom_id>
+    <extension>cdl</extension>
+    <signature>
+      <name>Discus Project 2-3</name>
+      <note>BOF; Offset: 0; Magic Bytes: 0xCDCD(00|20) followed by '.CANV'</note>
+      <pattern>
+        <position>BOF</position>
+        <pronom_pattern>CDCD(00|20)0743414E56</pronom_pattern>
+        <regex>(?s)\A\xcd\xcd(?:\x00| )\x07CANV</regex>
+      </pattern>
+    </signature>
+    <details>
+      <dc:description>Discus was label software developed by Magic Mouse Productions. Development stopped after version 4 at the same time Aplle stopped supporting 32-bit software. Discus was releasedas standalone software with 1000's of label options.</dc:description>
+      <dcterms:available />
+      <dc:creator />
+      <dcterms:publisher />
+      <content_type />
+      <record_metadata>
+        <status>unknown</status>
+        <dc:creator>Brigham Young University / Brigham Young University</dc:creator>
+        <dcterms:created>09 Jun 2026</dcterms:created>
+        <dcterms:modified>09 Jun 2026</dcterms:modified>
+        <dc:description />
+      </record_metadata>
+    </details>
+  </format>
+  <format>
+    <puid>fmt/2104</puid>
+    <name>Discus Project File</name>
+    <version>4</version>
+    <alias />
+    <pronom_id>3981</pronom_id>
+    <extension>cd4</extension>
+    <signature>
+      <name>Discus Project 4</name>
+      <note>BOF; Offset: 0; Magic Bytes: 0xCDCD(00|20) followed by '.PREV'</note>
+      <pattern>
+        <position>BOF</position>
+        <pronom_pattern>CDCD(00|20)0850524556</pronom_pattern>
+        <regex>(?s)\A\xcd\xcd(?:\x00| )\x08PREV</regex>
+      </pattern>
+    </signature>
+    <details>
+      <dc:description>Discus was label software developed by Magic Mouse Productions. Development stopped after version 4 at the same time Aplle stopped supporting 32-bit software. Discus was releasedas standalone software with 1000's of label options.</dc:description>
+      <dcterms:available />
+      <dc:creator />
+      <dcterms:publisher />
+      <content_type />
+      <record_metadata>
+        <status>unknown</status>
+        <dc:creator>Brigham Young University / Brigham Young University</dc:creator>
+        <dcterms:created>09 Jun 2026</dcterms:created>
+        <dcterms:modified>09 Jun 2026</dcterms:modified>
         <dc:description />
       </record_metadata>
     </details>
