@@ -41,7 +41,7 @@ defaults = {
     'printmatch': "OK,%(info.time)s,%(info.puid)s,\"%(info.formatname)s\",\"%(info.signaturename)s\",%(info.filesize)s,\"%(info.filename)s\",\"%(info.mimetype)s\",\"%(info.matchtype)s\"\n",
     'printnomatch': "KO,%(info.time)s,,,,%(info.filesize)s,\"%(info.filename)s\",,\"%(info.matchtype)s\"\n",
     'format_files': [
-        'formats-v124.xml',
+        'formats-v125.xml',
         'format_extensions.xml'
     ],
     'containersignature_file': 'container-signature-20260119.xml',
